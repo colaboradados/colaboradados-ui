@@ -1,6 +1,5 @@
 <template>
   <main>
-    <p>Paragrafo fora</p>
     <Quotation
       author="Open Knowledge Brasil"
       title="Quem trabalha com dados abertos no Brasil?"

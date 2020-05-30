@@ -1,0 +1,22 @@
+a {
+  align-items: baseline;
+  background-color: transparent;
+  color: inherit;
+  display: flex;
+  font-family: var(--serif);
+  text-decoration: none;
+  transition: color 0.3s ease-out;
+
+  &:visited {
+    color: inherit;
+  }
+
+  &:hover {
+    color: var(--color-gray-400);
+  }
+}
+
+.icons {
+  font-size: 0.75em;
+  margin-left: 1rem;
+}

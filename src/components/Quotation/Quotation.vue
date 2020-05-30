@@ -35,20 +35,4 @@ export default {
 
 <style scoped lang="scss">
 @import './Quotation.styles.scss';
-
-.blockquote {
-  margin: auto;
-  max-width: 620px;
-}
-
-.title {
-  font-family: var(--serif);
-  font-weight: var(--bold);
-  font-size: 3.6rem;
-  line-height: 1.2;
-}
-
-.link {
-  margin: 1rem 1.5rem;
-}
 </style>

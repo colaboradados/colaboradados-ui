@@ -3,11 +3,16 @@ title: "Episódio Zero"
 description: "Teaser do que está por vir."
 date: 2019-02-19
 lang: pt-BR
-layout: default
+layout: Podcast
 permalink: /podcast/000
+meta:
+  - name: editors
+    content: [joao-ernane]
+  - name: hosts
+    content: [judite-cypreste, leticia-silva]
 ---
 
-# Episódio zero: Teaser do Coluna7
+# Teaser do Coluna7
 
 O teaser do **Coluna7** vai ter dar uma ideia deste projeto encapsulado no **Colaboradados**.
 
@@ -19,10 +24,10 @@ Nossas apresentadoras [Judite Cypreste](https://twitter.com/juditecypreste) e [L
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 
-### Equipe Coluna7
+<!-- ### Equipe Coluna7
 
 - Edição – [João Ernane](https://twitter.com/ChofenAdulto)
-- Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
+- Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua) -->
 
 ### Créditos:
 

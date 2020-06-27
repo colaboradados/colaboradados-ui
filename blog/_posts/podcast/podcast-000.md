@@ -1,8 +1,10 @@
 ---
 title: "Episódio Zero"
 description: "Teaser do que está por vir."
+date: 2019-02-19
 lang: pt-BR
 layout: default
+permalink: /podcast/000
 ---
 
 # Episódio zero: Teaser do Coluna7

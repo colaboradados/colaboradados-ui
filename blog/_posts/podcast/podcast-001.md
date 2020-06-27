@@ -1,8 +1,10 @@
 ---
 title: "Episódio #001"
 description: "O Começo"
+date: 2019-03-07
 lang: pt-BR
 layout: default
+permalink: /podcast/001
 ---
 
 # Episódio #001 - O Começo

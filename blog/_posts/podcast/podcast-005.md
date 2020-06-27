@@ -1,8 +1,10 @@
 ---
 title: "Episódio #005"
 description: "Libertando dados"
+date: 2019-07-06
 lang: pt-BR
 layout: default
+permalink: /podcast/005
 ---
 
 # Episódio #005 - Libertando dados

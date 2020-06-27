@@ -1,8 +1,10 @@
 ---
 title: "Episódio #002"
 description: "Jornalismo de Dados: o episódio que você esperava"
+date: 2019-04-07
 lang: pt-BR
 layout: default
+permalink: /podcast/002
 ---
 
 # Episódio #002 - Jornalismo de Dados: o episódio que você esperava

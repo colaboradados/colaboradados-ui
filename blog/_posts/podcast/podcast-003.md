@@ -1,8 +1,10 @@
 ---
 title: "Episódio #003"
 description: "Entrevista com Fernando Masanori"
+date: 2019-05-07
 lang: pt-BR
 layout: default
+permalink: /podcast/003
 ---
 
 # Episódio #003 - Entrevista com Fernando Masanori

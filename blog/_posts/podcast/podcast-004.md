@@ -1,8 +1,10 @@
 ---
 title: "Episódio #004"
 description: "LAI Sem Sigilo com Fiquem Sabendo"
+date: 2019-06-07
 lang: pt-BR
 layout: default
+permalink: /podcast/004
 ---
 
 # Episódio #004 - LAI Sem Sigilo com Fiquem Sabendo

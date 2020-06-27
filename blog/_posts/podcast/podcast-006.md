@@ -1,8 +1,10 @@
 ---
 title: "Episódio #006"
 description: "Privacidade para Jornalistas"
+date: 2019-08-07
 lang: pt-BR
 layout: default
+permalink: /podcast/006
 ---
 
 # Episódio #006 - Privacidade para Jornalistas

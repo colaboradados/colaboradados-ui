@@ -1,8 +1,10 @@
 ---
 title: "Episódio #007"
 description: "1, 2, 3, 4, 5, 6, PLIM!"
+date: 2019-09-07
 lang: pt-BR
 layout: default
+permalink: /podcast/007
 ---
 
 # Episódio #007 - 1, 2, 3, 4, 5, 6, PLIM!

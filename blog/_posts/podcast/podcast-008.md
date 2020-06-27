@@ -1,8 +1,10 @@
 ---
 title: "Episódio #008"
 description: "Pensando a visualização dos dados"
+date: 2019-10-07
 lang: pt-BR
 layout: default
+permalink: /podcast/008
 ---
 
 # Episódio #008 - Pensando a visualização dos dados

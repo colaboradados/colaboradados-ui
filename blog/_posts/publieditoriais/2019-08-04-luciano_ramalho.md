@@ -1,0 +1,29 @@
+---
+title: "Uma nova etapa: um novo Colaboradados!"
+author: "Colaboradados"
+date: 2019-08-04
+lang: pt-BR
+layout: default
+tags: [publieditorial, Luciano Ramalho]
+---
+
+Quando começamos o projeto **Colaboradados**, umas das novas maiores discussões era se valia a pena pagar por um domínio para o site. Entre papos com _.org_ e _.com_ e até mesmo o _.jor_, acabamos decidindo pela alternativa mais inusitada: iríamos continuar com o _github.io_, domínio gratuito do _GitPages_.
+
+Não foram poucas pessoas que perguntaram da razão desta escolha. "- Mas o domínio é tão barato!", foi uma das coisas que mais escutamos durante esses quase seis meses de projeto. Então qual o motivo para não termos, desde o começo, criado o nosso colaboradados.com.br?
+
+Entre muitas coisas das quais você tem que pensar quando cria um projeto sem nenhum apoio financeiro é: para onde irá cada centavo que você tem e o que acontece quando você não tem nenhum centavo. Contudo, com vontade de fazer as coisas acontecerem as prioridades mudam muito.
+
+Quando começamos o projeto, decidimos que o pouco dinheiro que tinhamos não iria para o domínio. Ousadia? Nós sabemos. Mas também acreditávamos nas pessoas e que elas, vendo a seriedade do nosso trabalho iriam nos ajudar a, não só ter um domínio, como também outras ferramentas necessárias para o projeto crescer.
+
+Uma dessas pessoas foi o [Luciano Ramalho](https://www.thoughtworks.com/pt/profiles/luciano-ramalho), desenvolvedor na [_ThoughtWorks_](https://www.thoughtworks.com/pt/), autor do livro
+[Python Fluente](https://novatec.com.br/livros/pythonfluente/), cofundador do primeiro hackerspace do Brasil, o [Garoa Hacker Club](https://twitter.com/GaroaHC), em São Paulo e influente programador pythonista, além de um ótimo amigo.
+
+Graças ao Ramalho, o sonho antigo de ter um domínio só nosso (e todas as vantagens, como por exemplo, ser indexado antes do nosso perfil no [Twitter](https://twitter.com/colaboradados) nas buscas do Google) finalmente aconteceu.
+
+Gostaríamos de agradecer ao Ramalho por proporcionar esse momento para nosso projeto. E dizer para você, que gostaria de apoiar nosso trabalho, que há diversas formas, além da financeira, de ajudar.
+
+Com dinheiro ou com códigos, toda ajuda faz **sempre** a diferença.
+
+---
+
+_Esse texto faz parte da sessão de publieditoriais do Colaboradados. As doações para o nosso veículo na forma de produtos e/ou serviços específicos feitas a partir de uma empresa ou pessoas físicas serão discriminadas aqui. Nós nos comprometemos com a transparência de nossas doações, e não aceitamos quaisquer tipos de pagamentos para fazer nosso trabalho. Se você tem uma empresa e quer nos ajudar, basta entrar em contato no formulário abaixo do site, ou enviar um e-mail para colaboradados@gmail.com_

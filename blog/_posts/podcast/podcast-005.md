@@ -31,10 +31,4 @@ Não percam mais tempo, preparem seus fones de ouvidos e venham com a gente!
 ## Links Comentados no Episódio
 
 - [Brasil.io](https://brasil.io/home)
-- [Blog Brasil.io > Classificando Nomes por Gênero Usando Dados Públicos ](https://blog.brasil.io/2019/05/31/classificando-nomes-por-genero-usando-dados-publicos/)
-
-### Não se esqueçam de nos acompanhar nas redes sociais:
-
-- Twitter: [@colaboradados](https://twitter.com/colaboradados)
-- Nosso robô: [@colaboradados_bot](https://twitter.com/colabora_bot)
-- Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados) -->
+- [Blog Brasil.io > Classificando Nomes por Gênero Usando Dados Públicos ](https://blog.brasil.io/2019/05/31/classificando-nomes-por-genero-usando-dados-publicos/) -->

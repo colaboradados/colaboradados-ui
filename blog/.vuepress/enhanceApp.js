@@ -5,6 +5,10 @@
  */
 import moment from "moment";
 import localization from "moment/locale/pt-br";
+import { library } from "@fortawesome/fontawesome-svg-core";
+import { fab } from "@fortawesome/free-brands-svg-icons";
+import { fas } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 
 export default ({
   Vue, // the version of Vue being used in the VuePress app
@@ -13,4 +17,10 @@ export default ({
   siteData, // site metadata
 }) => {
   moment.locale("pt-br", localization);
+
+  /**
+   * ICONS CONFIGURATION
+   */
+  library.add(fab, fas);
+  Vue.component("fa-icon", FontAwesomeIcon);
 };

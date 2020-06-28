@@ -55,19 +55,6 @@ Não perca mais tempo, baixe logo o episódio e junte se a nós nessa conversa f
 - Tabula - [https://tabula.technology/](https://tabula.technology/)
 - Web Scraper - [Extensão para Google Chrome](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn)
 
-### Contato dos participantes deste episódio:
-
-- Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
-- Natália Mazotte: [@NataliaMazotte](https://twitter.com/NataliaMazotte)
-- Judite Cypreste: [@juditecypreste](https://www.twitter.com/juditecypreste)
-- João Ernane: [@chofenadulto](https://www.twitter.com/chofenadulto)
-
-### Não se esqueçam de nos acompanhar nas redes sociais:
-
-- Twitter: [@colaboradados](https://twitter.com/colaboradados)
-- Nosso robô: [@colaboradados_bot](https://twitter.com/colabora_bot)
-- Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
-- Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
 
 ### Créditos:
 

@@ -38,12 +38,6 @@ Ouça já este episódio e descubra tudo que queria saber, o que não queria sab
 - Grupo do Colaboradados no [Telegram](t.me/colaboradados)
 - Pesquisa sobre gostos dos ouvintes [no Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc3cHzm0CdRLY58jbYZjjcYj7q7mI9lsYx5ljLtWJ122MtUcA/viewform)
 
-### Não se esqueçam de nos acompanhar nas redes sociais:
-
-- Twitter: [@colaboradados](https://twitter.com/colaboradados)
-- Nosso robô: [@colaborabot](https://twitter.com/colabora_bot)
-- Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
-- Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
 
 ### Créditos:
 

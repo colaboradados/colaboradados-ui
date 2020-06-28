@@ -34,13 +34,6 @@ Saia já deste wi-fi público, conecte sua VPN de confiança e escute o sexto ep
 
 - [Privacidade Para Jornalistas](https://privacidadeparajornalistas.org/)
 
-### Não se esqueçam de nos acompanhar nas redes sociais:
-
-- Twitter: [@colaboradados](https://twitter.com/colaboradados)
-- Nosso robô: [@colaboradados_bot](https://twitter.com/colabora_bot)
-- Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
-- Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
-
 ### Créditos:
 
 Imagens:

@@ -2,6 +2,7 @@
   <div id="global-layout">
     <header>
       <p>Coluna 7 | {{ frontmatter.title }}</p>
+
       <time :datetime="frontmatter.date">{{ date }}</time>
     </header>
     <Content />
@@ -60,12 +61,14 @@
         </ul>
       </div>
     </section>
+    <SocialNetwork></SocialNetwork>
   </div>
 </template>
 
 <script>
 import moment from "moment";
 import Link from "../../components/Link";
+import SocialNetwork from "../../components/SocialNetwork";
 import { formatArtcileTimestap, numberPattern } from "../../helpers/patterns";
 import { METADATA, PEOPLE, PLATFORMS } from "../../helpers/constants";
 

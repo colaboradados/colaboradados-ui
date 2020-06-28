@@ -36,17 +36,7 @@ Entenda nesse episódio qual a importância dessa área para o jornalismo de dad
 
 - Financiamento coletivo do Colaboradados - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
 
-### Não se esqueçam de nos acompanhar nas redes sociais:
 
-- Twitter: [@colaboradados](https://twitter.com/colaboradados)
-- Nosso robô: [@colaborabot](https://twitter.com/colabora_bot)
-- Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
-- Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
-
-- Colaborabot no Mastodon: [@colaborabot@botsin.space](https://botsin.space/@colaborabot)
-- Colaborabot no Twitter: [@colaborabot](https://twitter.com/colabora_bot)
-
-- Grupo do Colaboradados no [Telegram](t.me/colaboradados)
 - Pesquisa sobre gostos dos ouvintes [no Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc3cHzm0CdRLY58jbYZjjcYj7q7mI9lsYx5ljLtWJ122MtUcA/viewform)
 
 ### Créditos:

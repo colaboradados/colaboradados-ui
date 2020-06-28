@@ -33,12 +33,6 @@ Preparem seus fones de ouvidos e vem com a gente!
 
 ## Links Comentados no Episódio
 
-### Não se esqueçam de nos acompanhar nas redes sociais:
-
-- Twitter: [@colaboradados](https://twitter.com/colaboradados)
-- Nosso robô: [@colaboradados_bot](https://twitter.com/colabora_bot)
-- Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
-- Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
 
 ### Créditos:
 

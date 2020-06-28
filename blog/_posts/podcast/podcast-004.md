@@ -47,12 +47,6 @@ Não percam mais tempo, preparem seus fones de ouvidos e venham com a gente!
 - [Artigo que trata do afastamento do assessor de João Dória](https://sao-paulo.estadao.com.br/noticias/geral,gestao-doria-dificulta-acesso-a-dados-e-viola-lei-de-acesso-a-informacao,70002075921)
 - [Ferramenta Queremos Saber](https://queremossaber.org.br/)
 
-### Não se esqueçam de nos acompanhar nas redes sociais:
-
-- Twitter: [@colaboradados](https://twitter.com/colaboradados)
-- Nosso robô: [@colaboradados_bot](https://twitter.com/colabora_bot)
-- Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
-- Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
 
 ### Créditos:
 

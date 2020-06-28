@@ -27,12 +27,6 @@ Neste primeiro episódio do seu podcast brasileiro de jornalismo de dados, conhe
 
 Reportagem de Aos Fatos sobre a exclusão do Portal da Transparência da Copa do Mundo de 2014 pela CGU: [https://aosfatos.org/noticias/apos-serie-sobre-legado-da-copa-cgu-tira-do-ar-site-com-os-gastos-do-mundial-de-2014/](https://aosfatos.org/noticias/apos-serie-sobre-legado-da-copa-cgu-tira-do-ar-site-com-os-gastos-do-mundial-de-2014/)
 
-### Não se esqueçam de nos acompanhar nas redes sociais:
-
-- Twitter: [@colaboradados](https://twitter.com/colaboradados)
-- Nosso robô: [@colaboradados_bot](https://twitter.com/colabora_bot)
-- Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
-- Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
 
 ### Créditos:
 

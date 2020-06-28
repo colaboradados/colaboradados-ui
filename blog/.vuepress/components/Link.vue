@@ -16,7 +16,9 @@ export default {
   props: ["platform", "url"],
   methods: {
     getUrl: (url, platform) =>
-      platform ? `${PLATFORMS[platform].url}/${url}` : url,
+      platform && PLATFORMS[platform]
+        ? `${PLATFORMS[platform].url}/${url}`
+        : url,
   },
 };
 </script>

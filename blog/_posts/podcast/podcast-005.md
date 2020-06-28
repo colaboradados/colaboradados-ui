@@ -3,11 +3,14 @@ title: "Episódio #005"
 description: "Libertando dados"
 date: 2019-07-06
 lang: pt-BR
-layout: default
+layout: Podcast
 permalink: /podcast/005
+meta:
+  - name: participants
+    content: [judite-cypreste, leticia-silva, turicas]
 ---
 
-# Episódio #005 - Libertando dados
+# Libertando dados
 
 Saudações, pessoas!
 
@@ -33,12 +36,6 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 - [Brasil.io](https://brasil.io/home)
 - [Blog Brasil.io > Classificando Nomes por Gênero Usando Dados Públicos ](https://blog.brasil.io/2019/05/31/classificando-nomes-por-genero-usando-dados-publicos/)
-
-### Contato dos participantes deste episódio:
-
-- Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
-- Turicas: [@turicas](https://twitter.com/turicas)
-- Judite Cypreste: [@juditecypreste](https://www.twitter.com/juditecypreste)
 
 ### Não se esqueçam de nos acompanhar nas redes sociais:
 

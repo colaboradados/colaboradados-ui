@@ -3,11 +3,18 @@ title: "Episódio #003"
 description: "Entrevista com Fernando Masanori"
 date: 2019-05-07
 lang: pt-BR
-layout: default
+layout: Podcast
 permalink: /podcast/003
+meta:
+  - name: participants
+    content: [fernando-masanori, joao-ernane, judite-cypreste, leticia-silva]
+  - name: editors
+    content: [joao-ernane]
+  - name: hosts
+    content: [judite-cypreste, leticia-silva]
 ---
 
-# Episódio #003 - Entrevista com Fernando Masanori
+# Entrevista com Fernando Masanori
 
 Saudações, internautas!
 
@@ -30,24 +37,12 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 ## Links Comentados no Episódio
 
-### Contato dos participantes deste episódio:
-
-- Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
-- Fernando Masanori: [@fmasanori](https://twitter.com/fmasanori)
-- Judite Cypreste: [@juditecypreste](https://www.twitter.com/juditecypreste)
-- João Ernane: [@chofenadulto](https://www.twitter.com/chofenadulto)
-
 ### Não se esqueçam de nos acompanhar nas redes sociais:
 
 - Twitter: [@colaboradados](https://twitter.com/colaboradados)
 - Nosso robô: [@colaboradados_bot](https://twitter.com/colabora_bot)
 - Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
 - Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
-
-### Equipe Coluna7
-
-- Edição – [João Ernane](https://twitter.com/ChofenAdulto)
-- Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
 ### Créditos:
 

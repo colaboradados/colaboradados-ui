@@ -3,11 +3,18 @@ title: "Episódio #004"
 description: "LAI Sem Sigilo com Fiquem Sabendo"
 date: 2019-06-07
 lang: pt-BR
-layout: default
+layout: Podcast
 permalink: /podcast/004
+meta:
+  - name: participants
+    content: [fiquem-sabendo, judite-cypreste, leticia-silva]
+  - name: editors
+    content: [joao-ernane]
+  - name: hosts
+    content: [judite-cypreste, leticia-silva]
 ---
 
-# Episódio #004 - LAI Sem Sigilo com Fiquem Sabendo
+# LAI Sem Sigilo com Fiquem Sabendo
 
 Oláááá pessoas, tudo bem?
 
@@ -44,23 +51,12 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 - [Artigo que trata do afastamento do assessor de João Dória](https://sao-paulo.estadao.com.br/noticias/geral,gestao-doria-dificulta-acesso-a-dados-e-viola-lei-de-acesso-a-informacao,70002075921)
 - [Ferramenta Queremos Saber](https://queremossaber.org.br/)
 
-### Contato dos participantes deste episódio:
-
-- Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
-- Fiquem Sabendo: [@\_fiquemsabendo](https://twitter.com/_fiquemsabendo)
-- Judite Cypreste: [@juditecypreste](https://www.twitter.com/juditecypreste)
-
 ### Não se esqueçam de nos acompanhar nas redes sociais:
 
 - Twitter: [@colaboradados](https://twitter.com/colaboradados)
 - Nosso robô: [@colaboradados_bot](https://twitter.com/colabora_bot)
 - Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
 - Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
-
-### Equipe Coluna7
-
-- Edição – [João Ernane](https://twitter.com/ChofenAdulto)
-- Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
 ### Créditos:
 

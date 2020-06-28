@@ -3,11 +3,18 @@ title: "Episódio #006"
 description: "Privacidade para Jornalistas"
 date: 2019-08-07
 lang: pt-BR
-layout: default
+layout: Podcast
 permalink: /podcast/006
+meta:
+  - name: participants
+    content: [judite-cypreste, leticia-silva, raphael-hernandes]
+  - name: editors
+    content: [joao-ernane]
+  - name: hosts
+    content: [judite-cypreste, leticia-silva]
 ---
 
-# Episódio #006 - Privacidade para Jornalistas
+# Privacidade para Jornalistas
 
 Olá, pessoas!
 
@@ -31,23 +38,12 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 - [Privacidade Para Jornalistas](https://privacidadeparajornalistas.org/)
 
-### Contato dos participantes deste episódio:
-
-- Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
-- Raphael Hernandes: [@hernandesraph](https://twitter.com/hernandesraph)
-- Judite Cypreste: [@juditecypreste](https://www.twitter.com/juditecypreste)
-
 ### Não se esqueçam de nos acompanhar nas redes sociais:
 
 - Twitter: [@colaboradados](https://twitter.com/colaboradados)
 - Nosso robô: [@colaboradados_bot](https://twitter.com/colabora_bot)
 - Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
 - Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
-
-### Equipe Coluna7
-
-- Edição – [João Ernane](https://twitter.com/ChofenAdulto)
-- Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
 ### Créditos:
 

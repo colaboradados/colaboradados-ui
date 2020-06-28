@@ -3,11 +3,18 @@ title: "Episódio #002"
 description: "Jornalismo de Dados: o episódio que você esperava"
 date: 2019-04-07
 lang: pt-BR
-layout: default
+layout: Podcast
 permalink: /podcast/002
+meta:
+  - name: participants
+    content: [joao-ernane, judite-cypreste, leticia-silva, natalia-mazotte]
+  - name: editors
+    content: [joao-ernane]
+  - name: hosts
+    content: [judite-cypreste, leticia-silva]
 ---
 
-# Episódio #002 - Jornalismo de Dados: o episódio que você esperava
+# Jornalismo de Dados: o episódio que você esperava
 
 Olááááá internautas, tudo bem?
 
@@ -65,11 +72,6 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 - Nosso robô: [@colaboradados_bot](https://twitter.com/colabora_bot)
 - Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
 - Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
-
-### Equipe Coluna7
-
-- Edição – [João Ernane](https://twitter.com/ChofenAdulto)
-- Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
 ### Créditos:
 

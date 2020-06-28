@@ -3,11 +3,18 @@ title: "Episódio #008"
 description: "Pensando a visualização dos dados"
 date: 2019-10-07
 lang: pt-BR
-layout: default
+layout: Podcast
 permalink: /podcast/008
+meta:
+  - name: participants
+    content: [joao-ernane, judite-cypreste, leticia-silva, rodrigo-menegat]
+  - name: editors
+    content: [joao-ernane]
+  - name: hosts
+    content: [judite-cypreste, leticia-silva]
 ---
 
-# Episódio #008 - Pensando a visualização dos dados
+# Pensando a visualização dos dados
 
 Sejam bem vindos mais uma vez ao **Coluna7**, seres virtuais!
 
@@ -33,13 +40,6 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 - Financiamento coletivo do Colaboradados - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
 
-### Contato dos participantes deste episódio:
-
-- Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
-- Judite Cypreste: [@juditecypreste](https://www.twitter.com/juditecypreste)
-- Rodrigo Menegat: [@RodrigoMenegat](https://twitter.com/RodrigoMenegat)
-- João Ernane: [@ChofenAdulto](https://twitter.com/ChofenAdulto)
-
 ### Não se esqueçam de nos acompanhar nas redes sociais:
 
 - Twitter: [@colaboradados](https://twitter.com/colaboradados)
@@ -52,11 +52,6 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 - Grupo do Colaboradados no [Telegram](t.me/colaboradados)
 - Pesquisa sobre gostos dos ouvintes [no Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc3cHzm0CdRLY58jbYZjjcYj7q7mI9lsYx5ljLtWJ122MtUcA/viewform)
-
-### Equipe Coluna7
-
-- Edição – [João Ernane](https://twitter.com/ChofenAdulto)
-- Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
 ### Créditos:
 

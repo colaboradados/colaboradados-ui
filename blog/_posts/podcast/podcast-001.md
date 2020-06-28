@@ -3,11 +3,18 @@ title: "Episódio #001"
 description: "O Começo"
 date: 2019-03-07
 lang: pt-BR
-layout: default
+layout: Podcast
 permalink: /podcast/001
+meta:
+  - name: participants
+    content: [ana-paula-mendes, joao-ernane, judite-cypreste, leticia-silva]
+  - name: editors
+    content: [joao-ernane]
+  - name: hosts
+    content: [judite-cypreste, leticia-silva]
 ---
 
-# Episódio #001 - O Começo
+# O Começo
 
 Saudações, internautas!
 
@@ -23,24 +30,12 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 Reportagem de Aos Fatos sobre a exclusão do Portal da Transparência da Copa do Mundo de 2014 pela CGU: [https://aosfatos.org/noticias/apos-serie-sobre-legado-da-copa-cgu-tira-do-ar-site-com-os-gastos-do-mundial-de-2014/](https://aosfatos.org/noticias/apos-serie-sobre-legado-da-copa-cgu-tira-do-ar-site-com-os-gastos-do-mundial-de-2014/)
 
-### Contato dos participantes deste episódio:
-
-- Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
-- Ana Paula Mendes: [@ananoterminal](https://www.twitter.com/ananoterminal)
-- João Ernane: [@chofenadulto](https://www.twitter.com/chofenadulto)
-- Judite Cypreste: [@juditecypreste](https://www.twitter.com/juditecypreste)
-
 ### Não se esqueçam de nos acompanhar nas redes sociais:
 
 - Twitter: [@colaboradados](https://twitter.com/colaboradados)
 - Nosso robô: [@colaboradados_bot](https://twitter.com/colabora_bot)
 - Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
 - Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
-
-### Equipe Coluna7
-
-- Edição – [João Ernane](https://twitter.com/ChofenAdulto)
-- Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
 ### Créditos:
 

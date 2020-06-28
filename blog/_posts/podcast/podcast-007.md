@@ -3,11 +3,18 @@ title: "Episódio #007"
 description: "1, 2, 3, 4, 5, 6, PLIM!"
 date: 2019-09-07
 lang: pt-BR
-layout: default
+layout: Podcast
 permalink: /podcast/007
+meta:
+  - name: participants
+    content: [ana-paula-mendes, joao-ernane, judite-cypreste, leticia-silva]
+  - name: editors
+    content: [joao-ernane]
+  - name: hosts
+    content: [judite-cypreste, leticia-silva]
 ---
 
-# Episódio #007 - 1, 2, 3, 4, 5, 6, PLIM!
+# 1, 2, 3, 4, 5, 6, PLIM!
 
 Sejam bem vindos mais uma vez ao Coluna7, webnautas!
 
@@ -35,24 +42,12 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 - Grupo do Colaboradados no [Telegram](t.me/colaboradados)
 - Pesquisa sobre gostos dos ouvintes [no Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc3cHzm0CdRLY58jbYZjjcYj7q7mI9lsYx5ljLtWJ122MtUcA/viewform)
 
-### Contato dos participantes deste episódio:
-
-- Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
-- Judite Cypreste: [@juditecypreste](https://www.twitter.com/juditecypreste)
-- Ana Paula: [@ananoterminal](https://twitter.com/ananoterminal)
-- João Ernane: [@ChofenAdulto](https://twitter.com/ChofenAdulto)
-
 ### Não se esqueçam de nos acompanhar nas redes sociais:
 
 - Twitter: [@colaboradados](https://twitter.com/colaboradados)
 - Nosso robô: [@colaborabot](https://twitter.com/colabora_bot)
 - Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
 - Instagram: [https://www.instagram.com/colaboradados/](@colaboradados)
-
-### Equipe Coluna7
-
-- Edição – [João Ernane](https://twitter.com/ChofenAdulto)
-- Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
 ### Créditos:
 

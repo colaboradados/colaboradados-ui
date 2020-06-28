@@ -4,6 +4,11 @@ module.exports = {
     "Somos uma iniciativa colaborativa que busca reunir, demonstrar, investigar e monitorar o acesso à informação no Brasil.",
   theme: "@vuepress/theme-blog", // OR shortcut: @vuepress/blog
   permalink: "/:regular",
+  locales: {
+    "/": {
+      lang: "pt-BR",
+    },
+  },
   themeConfig: {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/#modifyblogpluginoptions

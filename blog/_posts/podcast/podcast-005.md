@@ -8,6 +8,8 @@ permalink: /podcast/005
 meta:
   - name: participants
     content: [judite-cypreste, leticia-silva, turicas]
+  - name: anchorFM
+    content: "https://anchor.fm/coluna7/embed/episodes/Episdio-006---Privacidade-para-Jornalistas-e4se3l"
 ---
 
 # Libertando dados
@@ -22,13 +24,7 @@ Tudo isso com uma pausa para um café e uma focaccia artesanal com quem entende 
 
 Não percam mais tempo, preparem seus fones de ouvidos e venham com a gente!
 
-### Escute agora!
-
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-005---Libertando-dados-e4i1h6" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
-
-### Links deste episódio:
+<!-- ### Links deste episódio:
 
 - Financiamento coletivo do Colaborados - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
 
@@ -41,4 +37,4 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 - Twitter: [@colaboradados](https://twitter.com/colaboradados)
 - Nosso robô: [@colaboradados_bot](https://twitter.com/colabora_bot)
-- Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados)
+- Facebook: [https://facebook.com/colaboradados](https://facebook.com/colaboradados) -->

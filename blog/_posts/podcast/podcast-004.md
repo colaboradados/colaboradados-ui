@@ -12,6 +12,8 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
+  - name: anchorFM
+    content: ""
 ---
 
 # LAI Sem Sigilo com Fiquem Sabendo
@@ -26,13 +28,7 @@ Além disso, saiba as dificuldades enfrentadas por quem trabalha com esse tipo d
 
 Não percam mais tempo, preparem seus fones de ouvidos e venham com a gente!
 
-### Escute agora!
-
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-004---LAI-Sem-Sigilo-com-Fiquem-Sabendo-e493qp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
-
-### Links deste episódio:
+<!-- ### Links deste episódio:
 
 - [Formulário para inscrição na newsletter Dados do Mês](https://eepurl.com/glBJrT)
 - Financiamento coletivo - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
@@ -60,9 +56,9 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 ### Créditos:
 
-Imagens:  
-[Freepik.com](https://www.freepik.com/)  
-[Pexels.com](https://www.pexels.com)  
+Imagens:
+[Freepik.com](https://www.freepik.com/)
+[Pexels.com](https://www.pexels.com)
 [Unsplash.com](https://unsplash.com)
 
 Músicas:
@@ -70,4 +66,4 @@ Músicas:
 - [Bad Snacks - Half Day](https://youtu.be/GW8659L9l6M)
 - [glaciære - Dolphin](https://youtu.be/f3EPNjnWn_I)
 - [It Still Rains in Summer - Royalty Free Music](https://youtu.be/YPBSMBDNm3k)
-- [Noir Et Blanc Vie - True Art Real Affection](https://youtu.be/5UAzI-QYTKw)
+- [Noir Et Blanc Vie - True Art Real Affection](https://youtu.be/5UAzI-QYTKw) -->

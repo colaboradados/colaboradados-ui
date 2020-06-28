@@ -12,6 +12,8 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
+  - name: anchorFM
+    content: "https://anchor.fm/coluna7/embed/episodes/Episdio-008---Pensando-a-visualizao-dos-dados-e6cqft"
 ---
 
 # Pensando a visualização dos dados
@@ -22,13 +24,7 @@ Que drope a primeira tabela quem nunca leu uma manchete e procurou algum tipo de
 
 Entenda nesse episódio qual a importância dessa área para o jornalismo de dados, quais as ferramentas utilizadas, as boas práticas na hora de pensar em gráficos, e dicas de conteúdo para estudo!
 
-### Escute agora!
-
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-008---Pensando-a-visualizao-dos-dados-e6cqft" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
-
-### Links deste episódio:
+<!-- ### Links deste episódio:
 
 - Crie gráficos com facilidade com [Datawrapper](https://www.datawrapper.de/)
 - Plataforma para visualização de dados [Flourish](https://flourish.studio/)
@@ -55,9 +51,9 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 ### Créditos:
 
-Imagens:  
-[Freepik.com](https://www.freepik.com/)  
-[Pexels.com](https://www.pexels.com)  
+Imagens:
+[Freepik.com](https://www.freepik.com/)
+[Pexels.com](https://www.pexels.com)
 [Unsplash.com](https://unsplash.com)
 
 ### Músicas:
@@ -71,4 +67,4 @@ Imagens:
 - [Panthurr - Paradise](https://soundcloud.com/panthurr/paradise)
 - [potsu - damas](https://soundcloud.com/potsupotsu/damas)
 - [saib - Ipanema](https://soundcloud.com/cultclassicrecords/saib-08-ipanema)
-- [saib - São Paulo Sunset](https://soundcloud.com/saib_eats/sao-paulo)
+- [saib - São Paulo Sunset](https://soundcloud.com/saib_eats/sao-paulo) -->

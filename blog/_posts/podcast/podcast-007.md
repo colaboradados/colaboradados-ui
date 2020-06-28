@@ -12,6 +12,8 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
+  - name: anchorFM
+    content: "https://anchor.fm/coluna7/embed/episodes/Episdio-007---1--2--3--4--5--6--PLIM-e590b7"
 ---
 
 # 1, 2, 3, 4, 5, 6, PLIM!
@@ -24,13 +26,7 @@ O que aconteceu nestes últimos 6 meses, desde o lançamento do episódio de est
 
 Ouça já este episódio e descubra tudo que queria saber, o que não queria saber, e o que não sabia que queria saber.
 
-### Escute agora!
-
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-007---1--2--3--4--5--6--PLIM-e590b7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
-
-### Links deste episódio:
+<!-- ### Links deste episódio:
 
 - Financiamento coletivo do Colaboradados - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
 
@@ -51,9 +47,9 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 ### Créditos:
 
-Imagens:  
-[Freepik.com](https://www.freepik.com/)  
-[Pexels.com](https://www.pexels.com)  
+Imagens:
+[Freepik.com](https://www.freepik.com/)
+[Pexels.com](https://www.pexels.com)
 [Unsplash.com](https://unsplash.com)
 
 ### Músicas:
@@ -61,4 +57,4 @@ Imagens:
 - [Parasail - Silent Partner](https://youtu.be/jpCV9GdIRy4)
 - [Cue - Silent Partner](https://youtu.be/mN4tB14GQMM)
 - [Hang For Days - Silent Partner](https://youtu.be/HYkPQ2iifhA)
-- [You Can't Fail - Density & Time](https://youtu.be/goI3V6daUl4)
+- [You Can't Fail - Density & Time](https://youtu.be/goI3V6daUl4) -->

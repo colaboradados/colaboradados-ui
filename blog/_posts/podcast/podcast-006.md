@@ -12,6 +12,8 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
+  - name: anchorFM
+    content: ""
 ---
 
 # Privacidade para Jornalistas
@@ -24,13 +26,7 @@ Neste episódio do **Coluna7** discutiremos sobre segurança e privacidade com R
 
 Saia já deste wi-fi público, conecte sua VPN de confiança e escute o sexto episódio do **Coluna7**!
 
-### Escute agora!
-
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-006---Privacidade-para-Jornalistas-e4se3l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
-
-### Links deste episódio:
+<!-- ### Links deste episódio:
 
 - Financiamento coletivo do Colaborados - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
 
@@ -47,9 +43,9 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 ### Créditos:
 
-Imagens:  
-[Freepik.com](https://www.freepik.com/)  
-[Pexels.com](https://www.pexels.com)  
+Imagens:
+[Freepik.com](https://www.freepik.com/)
+[Pexels.com](https://www.pexels.com)
 [Unsplash.com](https://unsplash.com)
 
 ### Músicas:
@@ -58,4 +54,4 @@ Imagens:
 - [Logic Impact - ghost](https://youtu.be/tb3Cafpj4uY)
 - [HTG - H4ppY](https://youtu.be/fR7qxF11NJ0)
 - [tPORt - Arpegiatto](https://youtu.be/hM8cXiOY5tI)
-- [AiR - Milla](https://youtu.be/u6qd5G4s2q4)
+- [AiR - Milla](https://youtu.be/u6qd5G4s2q4) -->

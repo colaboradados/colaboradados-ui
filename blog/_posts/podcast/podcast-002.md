@@ -12,6 +12,8 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
+  - name: anchorFM
+    content: "https://anchor.fm/coluna7/embed/episodes/Episdio-002---Entrevista-com-Natlia-Mazotte-e3lpuj"
 ---
 
 # Jornalismo de Dados: o episódio que você esperava
@@ -26,13 +28,7 @@ Aproveitamos sua presença ilustre para tirar dúvidas importantes como: O que �
 
 Não perca mais tempo, baixe logo o episódio e junte se a nós nessa conversa fantástica!
 
-### Escute agora!
-
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-002---Entrevista-com-Natlia-Mazotte-e3lpuj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
-
-### Links deste episódio:
+<!-- ### Links deste episódio:
 
 - [Formulário para inscrição na newsletter Dados do Mês](https://eepurl.com/glBJrT)
 - Financiamento coletivo: apoie o Colaboradados! - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
@@ -75,9 +71,9 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 ### Créditos:
 
-Imagens:  
-[Freepik.com](https://www.freepik.com/)  
-[Pexels.com](https://www.pexels.com)  
+Imagens:
+[Freepik.com](https://www.freepik.com/)
+[Pexels.com](https://www.pexels.com)
 [Unsplash.com](https://unsplash.com)
 
 Músicas:
@@ -85,4 +81,4 @@ Músicas:
 - Jahzzar - Siesta
 - Diogo Cadaval - Só Pra Ver Sambar
 
-[FreeMusicaArchive.com](FreeMusicArchive.com)
+[FreeMusicaArchive.com](FreeMusicArchive.com) -->

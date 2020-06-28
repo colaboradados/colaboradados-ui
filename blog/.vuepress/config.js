@@ -1,3 +1,5 @@
+const path = require("path");
+
 module.exports = {
   title: "Colaboradados",
   description:
@@ -7,6 +9,14 @@ module.exports = {
   locales: {
     "/": {
       lang: "pt-BR",
+    },
+  },
+  configureWebpack: {
+    resolve: {
+      alias: {
+        "@components": path.resolve(__dirname, "./theme/components"),
+        "@helpers": path.resolve(__dirname, "./theme/helpers"),
+      },
     },
   },
   themeConfig: {

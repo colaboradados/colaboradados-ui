@@ -18,9 +18,9 @@
 </template>
 
 <script>
-import { METADATA, PLATFORMS } from "../../helpers/constants";
-import { getMetaContent } from "../../helpers/get";
-import { numberPattern } from "../../helpers/patterns";
+import { METADATA, PLATFORMS } from "@helpers/constants";
+import { getMetaContent } from "@helpers/get";
+import { numberPattern } from "@helpers/patterns";
 
 export default {
   name: "Listen",

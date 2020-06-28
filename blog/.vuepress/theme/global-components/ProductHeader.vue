@@ -7,10 +7,10 @@
 
 <script>
 import moment from "moment";
-import { formatArtcileTimestap } from "../helpers/patterns";
+import { formatArtcileTimestap } from "@helpers/patterns";
 
 export default {
-  name: "Header",
+  name: "ProductHeader",
   props: ["product", "data"],
   computed: {
     date() {

@@ -1,6 +1,6 @@
 <template>
   <div id="global-layout">
-    <Header product="Coluna 7" :data="frontmatter"></Header>
+    <ProductHeader product="Coluna 7" :data="frontmatter"></ProductHeader>
     <Content />
     <Listen :data="frontmatter"></Listen>
     <section v-if="participants">
@@ -16,22 +16,17 @@
 
 <script>
 import moment from "moment";
-import Header from "../../components/Header";
-import Link from "../../components/Link";
-import SocialNetwork from "../../components/SocialNetwork";
-import Listen from "../../components/Podcast/Listen";
-import PeopleSection from "../../components/Podcast/PeopleSection";
-import Team from "../../components/Podcast/Team";
-import { formatArtcileTimestap } from "../../helpers/patterns";
-import { METADATA, PEOPLE } from "../../helpers/constants";
-import { getMetaContent } from "../../helpers/get";
+import Listen from "@components/Podcast/Listen";
+import PeopleSection from "@components/Podcast/PeopleSection";
+import Team from "@components/Podcast/Team";
+import { formatArtcileTimestap } from "@helpers/patterns";
+import { METADATA, PEOPLE } from "@helpers/constants";
+import { getMetaContent } from "@helpers/get";
 
 export default {
   components: {
-    Link,
     Listen,
     PeopleSection,
-    SocialNetwork,
     Team,
   },
   data: function() {

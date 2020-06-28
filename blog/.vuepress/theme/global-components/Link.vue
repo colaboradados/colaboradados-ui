@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import { PLATFORMS } from "../helpers/constants";
+import { PLATFORMS } from "@helpers/constants";
 
 export default {
   name: "Link",

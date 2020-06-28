@@ -15,8 +15,7 @@
 </template>
 
 <script>
-import Link from "../../components/Link";
-import { PEOPLE, PLATFORMS } from "../../helpers/constants";
+import { PEOPLE, PLATFORMS } from "@helpers/constants";
 
 export default {
   name: "PeopleSection",

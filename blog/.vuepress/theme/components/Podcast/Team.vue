@@ -12,7 +12,7 @@
 
 <script>
 import PeopleSection from "./PeopleSection";
-import { METADATA, PEOPLE } from "../../helpers/constants";
+import { METADATA, PEOPLE } from "@helpers/constants";
 
 export default {
   name: "Team",

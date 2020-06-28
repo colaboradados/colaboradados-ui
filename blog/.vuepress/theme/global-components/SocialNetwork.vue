@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import { SOCIAL_LINKS } from "../helpers/constants";
+import { SOCIAL_LINKS } from "@helpers/constants";
 
 export default {
   name: "SocialNetwork",

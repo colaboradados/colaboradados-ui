@@ -1,13 +1,27 @@
-pids
-logs
-node_modules
-npm-debug.log
-coverage/
-run
-dist
-.DS_Store
 .nyc_output
 .basement
 config.local.js
 basement_dist
-.env
+pids
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+dist
+/public
+
+# logs
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# misc
+
+.DS_Store
+.env.*
+.idea
+.cache

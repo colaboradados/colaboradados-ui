@@ -4,7 +4,7 @@
     <ul>
       <li v-for="(social, i) in SOCIAL_LINKS" :key="`social-${i}`">
         <Link :url="social.url">
-          <fa-icon :icon="getIcon(social.platform)"></fa-icon>
+          <FaIcon :icon="getIcon(social.platform)"></FaIcon>
           <p>{{ social.handle }}</p>
         </Link>
       </li>

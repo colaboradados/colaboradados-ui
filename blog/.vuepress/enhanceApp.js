@@ -22,5 +22,5 @@ export default ({
    * ICONS CONFIGURATION
    */
   library.add(fab, fas);
-  Vue.component("fa-icon", FontAwesomeIcon);
+  Vue.component("FaIcon", FontAwesomeIcon);
 };

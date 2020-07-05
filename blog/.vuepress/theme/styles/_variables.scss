@@ -1,0 +1,23 @@
+:root {
+  --grid-col-count: 4;
+  --col-gutter: 2rem;
+  --sans-serif: sans-serif;
+  --sefif: serif;
+
+  --pad-horizontal: 2rem;
+
+  --dark-grey: #757575;
+  --light-grey: #ccc;
+
+  @include md() {
+    --grid-col-count: 9;
+    --col-gutter: 1.4rem;
+    --pad-horizontal: 6rem;
+  }
+
+  @include lg() {
+    --grid-col-count: 12;
+    --col-gutter: 2rem;
+    --pad-horizontal: 0rem;
+  }
+}

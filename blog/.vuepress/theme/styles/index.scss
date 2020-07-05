@@ -1,0 +1,26 @@
+@import "./reset";
+@import "./breakpoints";
+@import "./variables";
+@import "./mixin";
+@import "./typography";
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: var(--sans-serif);
+  font-size: 1.6rem;
+}
+
+.section {
+  margin-top: 4rem;
+
+  @include md {
+    margin-top: 5rem;
+  }
+
+  @include lg {
+    margin-top: 6rem;
+  }
+}

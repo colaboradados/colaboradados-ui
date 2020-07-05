@@ -1,6 +1,6 @@
 ---
-title: "Episódio #007"
-description: "1, 2, 3, 4, 5, 6, PLIM!"
+edition: "Episódio #007"
+title: "1, 2, 3, 4, 5, 6, PLIM!"
 date: 2019-09-07
 lang: pt-BR
 layout: Podcast
@@ -12,11 +12,9 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
-  - name: anchorFM
-    content: "https://anchor.fm/coluna7/embed/episodes/Episdio-007---1--2--3--4--5--6--PLIM-e590b7"
+  - name: Embed
+    content: "https://open.spotify.com/embed-podcast/episode/68moJvXyakWXDvgpAW1ezw"
 ---
-
-# 1, 2, 3, 4, 5, 6, PLIM!
 
 Sejam bem vindos mais uma vez ao Coluna7, webnautas!
 

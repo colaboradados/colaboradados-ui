@@ -12,6 +12,7 @@
 
 <script>
 import PeopleSection from "./PeopleSection";
+import { getMetaContent } from "@helpers/get";
 import { METADATA, PEOPLE } from "@helpers/constants";
 
 export default {
@@ -20,18 +21,12 @@ export default {
     PeopleSection,
   },
   props: ["data"],
-  methods: {
-    getMetaContent(key) {
-      const value = this.data.meta?.filter((item) => item.name === key);
-      return value.length > 0 ? value[0].content : null;
-    },
-  },
   computed: {
     editors() {
-      return this.getMetaContent(METADATA.EDITORS);
+      return this.getMetaContent(METADATA.EDITORS, this.data);
     },
     hosts() {
-      return this.getMetaContent(METADATA.HOSTS);
+      return this.getMetaContent(METADATA.HOSTS, this.data);
     },
   },
 };

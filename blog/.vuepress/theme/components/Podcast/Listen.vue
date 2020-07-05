@@ -1,13 +1,15 @@
 <template>
-  <section>
-    <h3>Escute agora!</h3>
+  <section class="section">
+    <h3 class="h5">Escute agora!</h3>
     <iframe
-      :src="url"
-      height="102px"
+      allow="encrypted-media"
+      allowtransparency="true"
+      class="iframe"
       frameborder="0"
-      scrolling="no"
+      height="232"
+      :src="url"
       :title="`Escute o episódio ${edition}`"
-      width="400px"
+      width="100%"
     ></iframe>
     <p>
       Ou então
@@ -36,10 +38,14 @@ export default {
       return parseInt(this.data.permalink.match(numberPattern)[0], 10);
     },
     url() {
-      return getMetaContent(METADATA.ANCHORFM, this.data);
+      return getMetaContent(METADATA.EMBED, this.data);
     },
   },
 };
 </script>
 
-<style></style>
+<style lang="scss" scoped>
+.iframe {
+  margin: 2rem 0;
+}
+</style>

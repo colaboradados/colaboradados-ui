@@ -1,6 +1,6 @@
 ---
-title: "Episódio #005"
-description: "Libertando dados"
+edition: "Episódio #005"
+title: "Libertando dados"
 date: 2019-07-06
 lang: pt-BR
 layout: Podcast
@@ -8,11 +8,9 @@ permalink: /podcast/005
 meta:
   - name: participants
     content: [judite-cypreste, leticia-silva, turicas]
-  - name: anchorFM
-    content: "https://anchor.fm/coluna7/embed/episodes/Episdio-006---Privacidade-para-Jornalistas-e4se3l"
+  - name: Embed
+    content: "https://open.spotify.com/embed-podcast/episode/7etzlHnIlsX439P6QHgr4r"
 ---
-
-# Libertando dados
 
 Saudações, pessoas!
 

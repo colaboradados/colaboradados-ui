@@ -1,6 +1,6 @@
 ---
-title: "Episódio #001"
-description: "O Começo"
+edition: "Episódio #001"
+title: "O Começo"
 date: 2019-03-07
 lang: pt-BR
 layout: Podcast
@@ -12,11 +12,9 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
-  - name: anchorFM
-    content: "https://anchor.fm/coluna7/embed/episodes/Episodio-001---O-Comeo-e3db0n"
+  - name: Embed
+    content: "https://open.spotify.com/embed-podcast/episode/6UaVbEwnzMxpY7QLxhv4OE"
 ---
-
-# O Começo
 
 Saudações, internautas!
 

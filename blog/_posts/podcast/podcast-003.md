@@ -1,6 +1,6 @@
 ---
-title: "Episódio #003"
-description: "Entrevista com Fernando Masanori"
+edition: "Episódio #003"
+title: "Entrevista com Fernando Masanori"
 date: 2019-05-07
 lang: pt-BR
 layout: Podcast
@@ -12,11 +12,9 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
-  - name: anchorFM
-    content: "https://anchor.fm/coluna7/embed/episodes/Episdio-004---LAI-Sem-Sigilo-com-Fiquem-Sabendo-e493qp"
+  - name: Embed
+    content: "https://open.spotify.com/embed-podcast/episode/12RoGNzsA6CQaiI4KAEgxN"
 ---
-
-# Entrevista com Fernando Masanori
 
 Saudações, internautas!
 

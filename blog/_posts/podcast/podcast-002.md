@@ -1,6 +1,6 @@
 ---
-title: "Episódio #002"
-description: "Jornalismo de Dados: o episódio que você esperava"
+edition: "Episódio #002"
+title: "Jornalismo de Dados: o episódio que você esperava"
 date: 2019-04-07
 lang: pt-BR
 layout: Podcast
@@ -12,11 +12,9 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
-  - name: anchorFM
-    content: "https://anchor.fm/coluna7/embed/episodes/Episdio-002---Entrevista-com-Natlia-Mazotte-e3lpuj"
+  - name: Embed
+    content: "https://open.spotify.com/embed-podcast/episode/2pTp5yMRHyylf3coe7kB7B"
 ---
-
-# Jornalismo de Dados: o episódio que você esperava
 
 Olááááá internautas, tudo bem?
 

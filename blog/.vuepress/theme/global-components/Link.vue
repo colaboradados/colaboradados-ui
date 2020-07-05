@@ -1,9 +1,5 @@
 <template>
-  <a
-    :href="getUrl(this.url, this.platform)"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
+  <a :href="url" target="_blank" rel="noopener noreferrer">
     <slot></slot>
   </a>
 </template>
@@ -13,12 +9,6 @@ import { PLATFORMS } from "@helpers/constants";
 
 export default {
   name: "Link",
-  props: ["platform", "url"],
-  methods: {
-    getUrl: (url, platform) =>
-      platform && PLATFORMS[platform]
-        ? `${PLATFORMS[platform].url}/${url}`
-        : url,
-  },
+  props: ["url"],
 };
 </script>

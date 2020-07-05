@@ -31,12 +31,8 @@ module.exports = {
      */
     nav: [
       {
-        text: "Blog",
-        link: "/",
-      },
-      {
-        text: "Tags",
-        link: "/tag/",
+        text: "Bases de Dados",
+        link: "/bases/",
       },
       {
         text: "Podcast",

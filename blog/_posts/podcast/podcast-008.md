@@ -1,6 +1,6 @@
 ---
-title: "Episódio #008"
-description: "Pensando a visualização dos dados"
+edition: "Episódio #008"
+title: "Pensando a visualização dos dados"
 date: 2019-10-07
 lang: pt-BR
 layout: Podcast
@@ -12,11 +12,9 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
-  - name: anchorFM
-    content: "https://anchor.fm/coluna7/embed/episodes/Episdio-008---Pensando-a-visualizao-dos-dados-e6cqft"
+  - name: Embed
+    content: "https://open.spotify.com/embed-podcast/episode/2Gfc8KchX4s9fTdZBfKQvz"
 ---
-
-# Pensando a visualização dos dados
 
 Sejam bem vindos mais uma vez ao **Coluna7**, seres virtuais!
 

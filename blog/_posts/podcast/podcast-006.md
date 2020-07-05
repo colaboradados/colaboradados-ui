@@ -1,6 +1,6 @@
 ---
-title: "Episódio #006"
-description: "Privacidade para Jornalistas"
+edition: "Episódio #006"
+title: "Privacidade para Jornalistas"
 date: 2019-08-07
 lang: pt-BR
 layout: Podcast
@@ -12,11 +12,9 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
-  - name: anchorFM
-    content: ""
+  - name: Embed
+    content: "https://open.spotify.com/embed-podcast/episode/51lSpfCmAlbYcQIXCefBiJ"
 ---
-
-# Privacidade para Jornalistas
 
 Olá, pessoas!
 

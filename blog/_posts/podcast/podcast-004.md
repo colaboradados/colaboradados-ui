@@ -1,6 +1,6 @@
 ---
-title: "Episódio #004"
-description: "LAI Sem Sigilo com Fiquem Sabendo"
+edition: "Episódio #004"
+title: "LAI Sem Sigilo com Fiquem Sabendo"
 date: 2019-06-07
 lang: pt-BR
 layout: Podcast
@@ -12,11 +12,9 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
-  - name: anchorFM
-    content: ""
+  - name: Embed
+    content: "https://open.spotify.com/embed-podcast/episode/560ooj1zMqK0NUP1sXu0Fu"
 ---
-
-# LAI Sem Sigilo com Fiquem Sabendo
 
 Oláááá pessoas, tudo bem?
 

@@ -1,14 +1,13 @@
 <template>
   <div v-if="people">
     <h4>{{ title }}</h4>
-    <ul>
-      <li v-for="(person, i) in people" :key="`person-${i}`">
-        <Link
-          :platform="PLATFORMS.TWITTER"
-          :url="getPerson(person)[PLATFORMS.TWITTER]"
-        >
-          {{ getPerson(person).name }}
-        </Link>
+    <ul class="no-list people-list">
+      <li
+        class="people-item"
+        v-for="(person, i) in people"
+        :key="`person-${i}`"
+      >
+        <LinkPerson :person="person" :platform="PLATFORMS.TWITTER"></LinkPerson>
       </li>
     </ul>
   </div>
@@ -25,12 +24,15 @@ export default {
       PLATFORMS,
     };
   },
-  methods: {
-    getPerson(slug) {
-      return PEOPLE[slug];
-    },
-  },
 };
 </script>
 
-<style></style>
+<style lang="scss" scoped>
+.people-list {
+  margin: 2rem 0 3rem;
+}
+
+.people-item {
+  margin: 0.75rem 0;
+}
+</style>

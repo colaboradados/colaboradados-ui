@@ -1,6 +1,6 @@
 <template>
   <section class="section">
-    <h3 class="h5">Escute agora!</h3>
+    <h2>Escute agora!</h2>
     <iframe
       allow="encrypted-media"
       allowtransparency="true"

@@ -1,48 +1,34 @@
 <template>
   <div>
     <Header />
-    <main class="main" id="global-layout">
-      <section class="header grid">
-        <ProductHeader
-          class="grid-left"
-          product="Coluna 7"
-          :data="frontmatter"
-        ></ProductHeader>
-        <div class="grid-right">
-          <h2 class="h2">{{ frontmatter.title }}</h2>
-        </div>
-      </section>
-      <section class="grid">
-        <div class="grid-left">
-          <PeopleSection
-            v-if="participants"
-            title="Participantes desta edição"
-            :people="participants"
-          ></PeopleSection>
-          <PeopleSection
-            v-if="hosts"
-            title="Apresentação"
-            :people="hosts"
-          ></PeopleSection>
-          <PeopleSection
-            v-if="editors"
-            title="Edição"
-            :people="editors"
-          ></PeopleSection>
-        </div>
-        <div class="grid-right">
-          <Content />
-          <Listen :data="frontmatter"></Listen>
-        </div>
-      </section>
-      <!-- <section>
-      <h3>Créditos</h3>
-      <slot name="aaa" />
-
-      <Content slot-key="aaa" />
-    </section> -->
-      <!-- <SocialNetwork></SocialNetwork> -->
-    </main>
+    <div class="main grid" id="global-layout">
+      <ProductHeader
+        class="product-header"
+        :data="frontmatter"
+        product="Coluna 7"
+      ></ProductHeader>
+      <main class="content">
+        <h1 class="podcast-title">{{ frontmatter.title }}</h1>
+        <Content />
+      </main>
+      <aside>
+        <PeopleSection
+          v-if="participants"
+          title="Participantes desta edição"
+          :people="participants"
+        ></PeopleSection>
+        <PeopleSection
+          v-if="hosts"
+          title="Apresentação"
+          :people="hosts"
+        ></PeopleSection>
+        <PeopleSection
+          v-if="editors"
+          title="Edição"
+          :people="editors"
+        ></PeopleSection>
+      </aside>
+    </div>
   </div>
 </template>
 
@@ -91,7 +77,7 @@ export default {
 
 .main {
   margin: 3rem auto 0;
-  max-width: 120rem;
+  max-width: var(--max-width);
   overflow: hidden;
   padding: 0 var(--pad-horizontal);
   width: 100%;
@@ -99,16 +85,14 @@ export default {
 
 .grid {
   @include grid;
+  grid-template-rows: auto auto;
 
-  &-left {
+  aside {
     @include grid-column-span(4);
-
-    @include sm-only {
-      margin-bottom: 5rem;
-    }
 
     @include md {
       @include grid-column-span(3);
+      grid-row-start: 2;
     }
 
     @include lg {
@@ -116,22 +100,38 @@ export default {
     }
   }
 
-  &-right {
+  main {
     @include grid-column-span(4);
 
     @include md {
-      grid-column-start: 4;
       @include grid-column-span(6);
+      grid-column-start: 4;
+      grid-row-start: 2;
     }
 
     @include lg {
-      grid-column-start: 5;
       @include grid-column-span(8);
+      grid-column-start: 5;
     }
   }
 }
 
 .header {
   margin-bottom: 3rem;
+}
+
+.product-header {
+  margin-bottom: 3rem;
+
+  @include md {
+    @include grid-column-span(6);
+    grid-column-start: 4;
+    grid-row-start: 1;
+  }
+
+  @include md {
+    @include grid-column-span(8);
+    grid-column-start: 5;
+  }
 }
 </style>

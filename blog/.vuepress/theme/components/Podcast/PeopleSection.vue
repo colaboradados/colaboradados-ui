@@ -1,6 +1,6 @@
 <template>
   <div v-if="people">
-    <h4>{{ title }}</h4>
+    <label class="title">{{ title }}</label>
     <ul class="no-list people-list">
       <li
         class="people-item"
@@ -28,6 +28,10 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.title {
+  font-weight: 600;
+}
+
 .people-list {
   margin: 2rem 0 3rem;
 }

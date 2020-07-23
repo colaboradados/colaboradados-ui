@@ -1,38 +1,72 @@
-.h1 {
+@mixin Header1 {
   font-family: var(--sans-serif);
-  font-size: 7rem;
-}
-
-.h2 {
-  font-family: serif;
   font-size: 5rem;
+  @include md {
+    margin-bottom: 2rem;
+  }
+  @include lg {
+    margin-bottom: 3rem;
+  }
 }
-
-.h3 {
-  font-family: var(--serif);
-  font-size: 4.5rem;
-}
-
-.h4 {
-  font-family: var(--sans-serif);
+@mixin Header2 {
+  font-family: serif;
   font-size: 4rem;
-}
 
-.h5 {
-  font-family: var(--sans-serif);
-  font-size: 3.5rem;
-}
+  @include md {
+    margin-bottom: 1.5rem;
+  }
+  @include lg {
+    margin-bottom: 2.5rem;
+  }
 
-.h5 {
-  font-family: var(--sans-serif);
+  &:not(:first-child) {
+    @include md {
+      margin-top: 2rem;
+    }
+    @include lg {
+      margin-top: 3rem;
+    }
+  }
+}
+@mixin Header3 {
+  font-family: var(--serif);
   font-size: 3rem;
+
+  &:not(:first-child) {
+    @include md {
+      margin-top: 1.5rem;
+    }
+    @include lg {
+      margin-top: 2.5rem;
+    }
+  }
+}
+@mixin Header4 {
+  font-family: var(--sans-serif);
+  font-size: 2.5rem;
+}
+@mixin Paragraph {
+  font-family: var(--sans-serif);
+  line-height: 1.3em;
+  margin-bottom: 1.5rem;
+}
+
+h1 {
+  @include Header1;
+}
+
+h2 {
+  @include Header2;
+}
+
+h3 {
+  @include Header3;
+}
+
+h4 {
+  @include Header4;
 }
 
 p {
-  font-family: var(--sans-serif);
-  line-height: 1.3em;
-
-  &:not(:last-of-type) {
-    margin-bottom: 1.5rem;
-  }
+  @include Paragraph;
 }

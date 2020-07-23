@@ -1,11 +1,16 @@
 :root {
-  --grid-col-count: 4;
-  --col-gutter: 2rem;
   --sans-serif: sans-serif;
   --sefif: serif;
 
+  // layout
+  // layout: grid
+  --col-gutter: 2rem;
+  --grid-col-count: 4;
+  // layout: spacing
+  --max-width: 100rem;
   --pad-horizontal: 2rem;
 
+  // colors
   --dark-grey: #757575;
   --light-grey: #ccc;
 

@@ -43,7 +43,7 @@ export default {
   &-content {
     display: flex;
     margin: auto;
-    max-width: 120rem;
+    max-width: var(--max-width);
     width: 100%;
   }
 }

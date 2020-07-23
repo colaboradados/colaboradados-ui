@@ -2,6 +2,10 @@
   display: grid;
   grid-template-columns: repeat(#{$columns}, 1fr);
   grid-column-gap: #{$gap};
+
+  @include sm-only {
+    grid-row-gap: #{$gap};
+  }
 }
 
 @mixin grid-start($row, $column) {

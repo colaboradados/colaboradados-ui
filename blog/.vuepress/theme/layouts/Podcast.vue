@@ -1,7 +1,6 @@
 <template>
-  <div>
-    <Header />
-    <div class="main grid" id="global-layout">
+  <Base>
+    <div class="grid">
       <ProductHeader
         class="product-header"
         :data="frontmatter"
@@ -29,23 +28,20 @@
         ></PeopleSection>
       </aside>
     </div>
-  </div>
+  </Base>
 </template>
 
 <script>
 import moment from "moment";
-import Listen from "@components/Podcast/Listen";
 import PeopleSection from "@components/Podcast/PeopleSection";
-import Team from "@components/Podcast/Team";
 import { formatArtcileTimestap } from "@helpers/patterns";
 import { METADATA, PEOPLE } from "@helpers/constants";
 import { getMetaContent } from "@helpers/get";
 
 export default {
+  name: "Podcast",
   components: {
-    Listen,
     PeopleSection,
-    Team,
   },
   data: function() {
     return {
@@ -75,14 +71,6 @@ export default {
 <style lang="scss" scoped>
 @import "../styles/tools";
 
-.main {
-  margin: 3rem auto 0;
-  max-width: var(--max-width);
-  overflow: hidden;
-  padding: 0 var(--pad-horizontal);
-  width: 100%;
-}
-
 .grid {
   @include grid;
   grid-template-rows: auto auto;
@@ -100,7 +88,7 @@ export default {
     }
   }
 
-  main {
+  .content {
     @include grid-column-span(4);
 
     @include md {

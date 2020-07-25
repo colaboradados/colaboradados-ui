@@ -33,14 +33,17 @@ module.exports = {
       {
         text: "Bases de Dados",
         link: "/bases/",
+        target: "_self",
       },
       {
         text: "Podcast",
         link: "/podcast/",
+        target: "_self",
       },
       {
         text: "Newsletter",
         link: "/newsletter/",
+        target: "_self",
       },
     ],
     /**

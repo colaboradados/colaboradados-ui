@@ -12,8 +12,6 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
-  - name: Embed
-    content: "https://open.spotify.com/embed-podcast/episode/2Gfc8KchX4s9fTdZBfKQvz"
 ---
 
 Sejam bem vindos mais uma vez ao **Coluna7**, seres virtuais!
@@ -22,29 +20,43 @@ Que drope a primeira tabela quem nunca leu uma manchete e procurou algum tipo de
 
 Entenda nesse episódio qual a importância dessa área para o jornalismo de dados, quais as ferramentas utilizadas, as boas práticas na hora de pensar em gráficos, e dicas de conteúdo para estudo!
 
-<!-- ### Links deste episódio:
+<iframe
+  allow="encrypted-media"
+  allowtransparency="true"
+  class="iframe"
+  frameborder="0"
+  height="232"
+  src="https://open.spotify.com/embed-podcast/episode/2Gfc8KchX4s9fTdZBfKQvz"
+  title="Escute o oitavo episódio"
+  width="100%"
+></iframe>
+
+### Links
 
 - Crie gráficos com facilidade com [Datawrapper](https://www.datawrapper.de/)
 - Plataforma para visualização de dados [Flourish](https://flourish.studio/)
-- Data-Ink Ratio de Edward Tufte
 
-  - [Video em Inglês no Youtube](https://www.youtube.com/watch?v=JIMUzJzqaA8)
-  - [Pequena aula sobre o tema no Coursera - Michigan University](https://www.coursera.org/lecture/python-plotting/graphical-heuristics-data-ink-ratio-edward-tufte-qFnP9)
-  - [Artigo na Wikipedia em Português](https://pt.wikipedia.org/wiki/Data-ink)
+**Data-Ink Ratio de Edward Tufte**
 
-- Financiamento coletivo do Colaboradados - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
+- [Video em Inglês no Youtube](https://www.youtube.com/watch?v=JIMUzJzqaA8)
+- [Pequena aula sobre o tema no Coursera - Michigan University](https://www.coursera.org/lecture/python-plotting/graphical-heuristics-data-ink-ratio-edward-tufte-qFnP9)
+- [Artigo na Wikipedia em Português](https://pt.wikipedia.org/wiki/Data-ink)
 
+**Apoie o Colaboradados**
 
 - Pesquisa sobre gostos dos ouvintes [no Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc3cHzm0CdRLY58jbYZjjcYj7q7mI9lsYx5ljLtWJ122MtUcA/viewform)
+- [Formulário para inscrição na newsletter Dados do Mês](https://eepurl.com/glBJrT)
+- Financiamento coletivo - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
 
-### Créditos:
+## Créditos
 
-Imagens:
-[Freepik.com](https://www.freepik.com/)
-[Pexels.com](https://www.pexels.com)
-[Unsplash.com](https://unsplash.com)
+**Imagens**
 
-### Músicas:
+- [Freepik.com](https://www.freepik.com/)
+- [Pexels.com](https://www.pexels.com)
+- [Unsplash.com](https://unsplash.com)
+
+**Músicas**
 
 - [saib - Brazil](https://soundcloud.com/saib_eats/brazil)
 - [Brasil Cuíqueiro - Lofi Hip Hop](https://youtu.be/-h2-TTsyuv8)
@@ -55,4 +67,4 @@ Imagens:
 - [Panthurr - Paradise](https://soundcloud.com/panthurr/paradise)
 - [potsu - damas](https://soundcloud.com/potsupotsu/damas)
 - [saib - Ipanema](https://soundcloud.com/cultclassicrecords/saib-08-ipanema)
-- [saib - São Paulo Sunset](https://soundcloud.com/saib_eats/sao-paulo) -->
+- [saib - São Paulo Sunset](https://soundcloud.com/saib_eats/sao-paulo)

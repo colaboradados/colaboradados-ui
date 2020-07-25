@@ -24,7 +24,7 @@ Nossas apresentadoras [Judite Cypreste](https://twitter.com/juditecypreste) e [L
   frameborder="0"
   height="232"
   src="https://open.spotify.com/embed-podcast/episode/21WnJdlsNlnvb8deLTlgby"
-  title="`Escute o episódio piloto"
+  title="Escute o episódio piloto"
   width="100%"
 ></iframe>
 

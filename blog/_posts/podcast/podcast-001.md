@@ -12,31 +12,40 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
-  - name: Embed
-    content: "https://open.spotify.com/embed-podcast/episode/6UaVbEwnzMxpY7QLxhv4OE"
 ---
 
 Saudações, internautas!
 
 Neste primeiro episódio do seu podcast brasileiro de jornalismo de dados, conheça a equipe do projeto Colaboradados e entenda (quase simultaneamente com o resto da equipe) de onde surgiu a vontade de criarmos a plataforma, quem somos, o que fazemos nos poucos momentos fora da internet e o que cada um espera nesta longa jornada que temos pela frente.
 
-<!--
-### Link deste episódio:
+<iframe
+  allow="encrypted-media"
+  allowtransparency="true"
+  class="iframe"
+  frameborder="0"
+  height="232"
+  src="https://open.spotify.com/embed-podcast/episode/6UaVbEwnzMxpY7QLxhv4OE"
+  title="Escute o primeiro episódio"
+  width="100%"
+></iframe>
 
-Reportagem de Aos Fatos sobre a exclusão do Portal da Transparência da Copa do Mundo de 2014 pela CGU: [https://aosfatos.org/noticias/apos-serie-sobre-legado-da-copa-cgu-tira-do-ar-site-com-os-gastos-do-mundial-de-2014/](https://aosfatos.org/noticias/apos-serie-sobre-legado-da-copa-cgu-tira-do-ar-site-com-os-gastos-do-mundial-de-2014/)
+## Links
 
+- [Reportagem de Aos Fatos sobre a exclusão do Portal da Transparência da Copa do Mundo de 2014 pela CGU](https://aosfatos.org/noticias/apos-serie-sobre-legado-da-copa-cgu-tira-do-ar-site-com-os-gastos-do-mundial-de-2014/)
 
-### Créditos:
+### Créditos
 
-Imagens:
-[Freepik.com](https://www.freepik.com/)
-[Pexels.com](https://www.pexels.com)
-[Unsplash.com](https://unsplash.com)
+**Imagens**
 
-Músicas:
+- [Freepik.com](https://www.freepik.com/)
+- [Pexels.com](https://www.pexels.com)
+- [Unsplash.com](https://unsplash.com)
+
+**Músicas**
 
 - Technoaxe - Retro Future Nights
 - Technoaxe - Rogue on a Friday Night
 - Saib. - When It Rains (Chove Chuva)
 - Boxcat Games - Inspiration
-  [Youtube.com](Youtube.com) e [FreeMusicaArchive.com](FreeMusicArchive.com) -->
+
+[Youtube.com](Youtube.com) e [FreeMusicaArchive.com](FreeMusicArchive.com)

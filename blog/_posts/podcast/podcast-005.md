@@ -8,8 +8,6 @@ permalink: /podcast/005
 meta:
   - name: participants
     content: [judite-cypreste, leticia-silva, turicas]
-  - name: Embed
-    content: "https://open.spotify.com/embed-podcast/episode/7etzlHnIlsX439P6QHgr4r"
 ---
 
 Saudações, pessoas!
@@ -22,11 +20,23 @@ Tudo isso com uma pausa para um café e uma focaccia artesanal com quem entende 
 
 Não percam mais tempo, preparem seus fones de ouvidos e venham com a gente!
 
-<!-- ### Links deste episódio:
+<iframe
+  allow="encrypted-media"
+  allowtransparency="true"
+  class="iframe"
+  frameborder="0"
+  height="232"
+  src="https://open.spotify.com/embed-podcast/episode/7etzlHnIlsX439P6QHgr4r"
+  title="Escute o quinto episódio"
+  width="100%"
+></iframe>
 
-- Financiamento coletivo do Colaborados - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
-
-## Links Comentados no Episódio
+### Links deste episódio:
 
 - [Brasil.io](https://brasil.io/home)
-- [Blog Brasil.io > Classificando Nomes por Gênero Usando Dados Públicos ](https://blog.brasil.io/2019/05/31/classificando-nomes-por-genero-usando-dados-publicos/) -->
+- [Blog Brasil.io > Classificando Nomes por Gênero Usando Dados Públicos ](https://blog.brasil.io/2019/05/31/classificando-nomes-por-genero-usando-dados-publicos/)
+
+**Apoie o Colaboradados**
+
+- [Formulário para inscrição na newsletter Dados do Mês](https://eepurl.com/glBJrT)
+- Financiamento coletivo - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)

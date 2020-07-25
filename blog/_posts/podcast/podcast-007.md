@@ -24,11 +24,18 @@ O que aconteceu nestes últimos 6 meses, desde o lançamento do episódio de est
 
 Ouça já este episódio e descubra tudo que queria saber, o que não queria saber, e o que não sabia que queria saber.
 
-<!-- ### Links deste episódio:
+<iframe
+  allow="encrypted-media"
+  allowtransparency="true"
+  class="iframe"
+  frameborder="0"
+  height="232"
+  src="https://open.spotify.com/embed-podcast/episode/68moJvXyakWXDvgpAW1ezw"
+  title="Escute o sétimo episódio"
+  width="100%"
+></iframe>
 
-- Financiamento coletivo do Colaboradados - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
-
-## Links Comentados no Episódio
+## Links
 
 - Colaborabot no Mastodon: [@colaborabot@botsin.space](https://botsin.space/@colaborabot)
 - Colaborabot no Twitter: [@colaborabot](https://twitter.com/colabora_bot)
@@ -36,17 +43,22 @@ Ouça já este episódio e descubra tudo que queria saber, o que não queria sab
 - Grupo do Colaboradados no [Telegram](t.me/colaboradados)
 - Pesquisa sobre gostos dos ouvintes [no Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc3cHzm0CdRLY58jbYZjjcYj7q7mI9lsYx5ljLtWJ122MtUcA/viewform)
 
+**Apoie o Colaboradados**
 
-### Créditos:
+- [Formulário para inscrição na newsletter Dados do Mês](https://eepurl.com/glBJrT)
+- Financiamento coletivo - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
 
-Imagens:
-[Freepik.com](https://www.freepik.com/)
-[Pexels.com](https://www.pexels.com)
-[Unsplash.com](https://unsplash.com)
+## Créditos
 
-### Músicas:
+**Imagens**
+
+- [Freepik.com](https://www.freepik.com/)
+- [Pexels.com](https://www.pexels.com)
+- [Unsplash.com](https://unsplash.com)
+
+**Músicas**
 
 - [Parasail - Silent Partner](https://youtu.be/jpCV9GdIRy4)
 - [Cue - Silent Partner](https://youtu.be/mN4tB14GQMM)
 - [Hang For Days - Silent Partner](https://youtu.be/HYkPQ2iifhA)
-- [You Can't Fail - Density & Time](https://youtu.be/goI3V6daUl4) -->
+- [You Can't Fail - Density & Time](https://youtu.be/goI3V6daUl4)

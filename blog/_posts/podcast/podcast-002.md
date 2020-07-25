@@ -26,44 +26,55 @@ Aproveitamos sua presença ilustre para tirar dúvidas importantes como: O que �
 
 Não perca mais tempo, baixe logo o episódio e junte se a nós nessa conversa fantástica!
 
-<!-- ### Links deste episódio:
+<iframe
+  allow="encrypted-media"
+  allowtransparency="true"
+  class="iframe"
+  frameborder="0"
+  height="232"
+  src="https://open.spotify.com/embed-podcast/episode/2pTp5yMRHyylf3coe7kB7B"
+  title="Escute o segundo episódio"
+  width="100%"
+></iframe>
+
+## Links
+
+- [Escola de Dados](https://escoladedados.org/)
+- [IRE / Nicar](https://learn.ire.org/)
+- [Cursos gratuitos - EDx](https://www.edx.org/)
+- [CODA 2019 - 23/11 à 24/11](https://coda.escoladedados.org/)
+
+**Faculdades com cursos que abordam Jornalismo de Dados:**
+
+- [Anhembi Morumbi](https://portal.anhembi.br/pos-graduacao/cursos-jornalismo-contemporaneo-e-digital/#sobre)
+- [ESPM](https://www.espm.br/graduacao/sao/sao-jornalismo/)
+- [PUC-RS](http://www.pucrs.br/comunicacao/)
+
+**Ferramentas apontadas:**
+
+- [Guia da Northwestern University com guias e ferramentas de Data-Viz](https://libguides.northwestern.edu/data2/dataviz)
+- [Flourish](https://flourish.studio/)
+- [Import.io](https://www.import.io/)
+- [Open Refine](http://openrefine.org/)
+- [Tabula](https://tabula.technology/)
+- [Web Scraper](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn)
+
+**Apoie o Colaboradados**
 
 - [Formulário para inscrição na newsletter Dados do Mês](https://eepurl.com/glBJrT)
-- Financiamento coletivo: apoie o Colaboradados! - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
+- [Financiamento coletivo: apoie o Colaboradados!](https://apoia.se/colaboradados)
 
-## Links Comentados no Episódio
+## Créditos
 
-- Escola de Dados - [https://escoladedados.org/](https://escoladedados.org/)
-- IRE / Nicar - [https://learn.ire.org/](https://learn.ire.org/)
-- Cursos gratuitos - EDx - [https://www.edx.org/](https://www.edx.org/)
-- CODA 2019 - 23/11 à 24/11 - [https://coda.escoladedados.org/](https://coda.escoladedados.org/)
+**Imagens**
 
-### Faculdades com cursos que abordam Jornalismo de Dados:
+- [Freepik.com](https://www.freepik.com/)
+- [Pexels.com](https://www.pexels.com)
+- [Unsplash.com](https://unsplash.com)
 
-- Anhembi Morumbi - [https://portal.anhembi.br/pos-graduacao/cursos/jornalismo-contemporaneo-e-digital/#sobre](https://portal.anhembi.br/pos-graduacao/cursos-jornalismo-contemporaneo-e-digital/#sobre)
-- ESPM - [https://www.espm.br/graduacao/sao/sao-jornalismo/](https://www.espm.br/graduacao/sao/sao-jornalismo/)
-- PUC-RS - [http://www.pucrs.br/comunicacao/](http://www.pucrs.br/comunicacao/)
-
-### Ferramentas apontadas:
-
-- Guia da Northwestern University com guias e ferramentas de Data-Viz - [https://libguides.northwestern.edu/data2/dataviz](https://libguides.northwestern.edu/data2/dataviz)
-- Flourish - [https://flourish.studio/](https://flourish.studio/)
-- Import.io - [https://www.import.io/](https://www.import.io/)
-- Open Refine - [http://openrefine.org/](http://openrefine.org/)
-- Tabula - [https://tabula.technology/](https://tabula.technology/)
-- Web Scraper - [Extensão para Google Chrome](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn)
-
-
-### Créditos:
-
-Imagens:
-[Freepik.com](https://www.freepik.com/)
-[Pexels.com](https://www.pexels.com)
-[Unsplash.com](https://unsplash.com)
-
-Músicas:
+**Músicas**
 
 - Jahzzar - Siesta
 - Diogo Cadaval - Só Pra Ver Sambar
 
-[FreeMusicaArchive.com](FreeMusicArchive.com) -->
+[FreeMusicaArchive.com](FreeMusicArchive.com)

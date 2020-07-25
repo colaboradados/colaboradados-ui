@@ -12,8 +12,6 @@ meta:
     content: [joao-ernane]
   - name: hosts
     content: [judite-cypreste, leticia-silva]
-  - name: Embed
-    content: "https://open.spotify.com/embed-podcast/episode/12RoGNzsA6CQaiI4KAEgxN"
 ---
 
 Saudações, internautas!
@@ -24,26 +22,37 @@ Se no último episódio contamos qual a visão do profissional de jornalismo nes
 
 Preparem seus fones de ouvidos e vem com a gente!
 
-<!-- ### Links deste episódio:
+<iframe
+  allow="encrypted-media"
+  allowtransparency="true"
+  class="iframe"
+  frameborder="0"
+  height="232"
+  src="https://open.spotify.com/embed-podcast/episode/12RoGNzsA6CQaiI4KAEgxN"
+  title="Escute o terceiro episódio"
+  width="100%"
+></iframe>
+
+## Links
+
+**Apoie o Colaboradados**
 
 - [Formulário para inscrição na newsletter Dados do Mês](https://eepurl.com/glBJrT)
 - Financiamento coletivo - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
 
-## Links Comentados no Episódio
+## Créditos
 
+**Imagens**
 
-### Créditos:
-
-Imagens:
 [Freepik.com](https://www.freepik.com/)
 [Pexels.com](https://www.pexels.com)
 [Unsplash.com](https://unsplash.com)
 
-Músicas:
+**Músicas**
 
 - [Audionautix - Alison](https://youtu.be/y6CfYKSyKQ0)
 - [Josh Lippi & The Overtimers - Trieste](https://youtu.be/tEbcAxHZBQA)
 - [Silent Partner - Parasail](https://youtu.be/fYulCy-HetY)
 - [Freedom Trail Studio - I'm Happy For This Guitar](https://youtu.be/YdDmoPG7GU8)
 - [Dan Lebowitz - Lone Wolf](https://youtu.be/BRSswu10V1k)
-- [Dan Lebowitz - Top Down](https://youtu.be/cPhsjohaSFA) -->
+- [Dan Lebowitz - Top Down](https://youtu.be/cPhsjohaSFA)

@@ -116,10 +116,5 @@ export default {
     grid-column-start: 4;
     grid-row-start: 1;
   }
-
-  @include md {
-    @include grid-column-span(8);
-    grid-column-start: 5;
-  }
 }
 </style>

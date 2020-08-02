@@ -1,10 +1,10 @@
 <template>
-  <header class="header">
-    <div class="header-content">
-      <p class="header-title">Colaboradados</p>
-      <nav class="nav" v-if="nav">
-        <ul class="no-list">
-          <li class="nav-link" v-for="(navLink, i) in nav" :key="navLink.link">
+  <header :class="$style.header">
+    <div :class="$style.headerContent">
+      <p>Colaboradados</p>
+      <nav v-if="nav" :class="$style.nav">
+        <ul class="list--reset list--horizontal">
+          <li v-for="(navLink, i) in nav" :key="navLink.link">
             <Link :url="navLink.link">{{ navLink.text }}</Link>
           </li>
         </ul>
@@ -24,7 +24,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss" module>
 @import "../styles/tools";
 
 .header {
@@ -39,23 +39,16 @@ export default {
     position: sticky;
     top: 0;
   }
+}
 
-  &-content {
-    display: flex;
-    margin: auto;
-    max-width: var(--max-width);
-    width: 100%;
-  }
+.headerContent {
+  display: flex;
+  margin: auto;
+  max-width: var(--max-width);
+  width: 100%;
 }
 
 .nav {
   margin-left: auto;
-
-  & > ul {
-    align-items: center;
-    display: flex;
-    flex-direction: row;
-    gap: var(--col-gutter);
-  }
 }
 </style>

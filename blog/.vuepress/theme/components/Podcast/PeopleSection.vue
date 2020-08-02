@@ -1,9 +1,9 @@
 <template>
   <div v-if="people">
-    <label class="title">{{ title }}</label>
-    <ul class="no-list people-list">
+    <label :class="$style.title">{{ title }}</label>
+    <ul :class="[$style.people, 'list--reset']">
       <li
-        class="people-item"
+        :class="$style.person"
         v-for="(person, i) in people"
         :key="`person-${i}`"
       >
@@ -27,16 +27,16 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss" module>
 .title {
   font-weight: 600;
 }
 
-.people-list {
+.people {
   margin: 2rem 0 3rem;
 }
 
-.people-item {
+.person {
   margin: 0.75rem 0;
 }
 </style>

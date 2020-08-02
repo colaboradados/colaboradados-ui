@@ -15,6 +15,6 @@
   &--horizontal {
     display: flex;
     flex-direction: row;
-    gap: 1em;
+    gap: var(--col-gutter);
   }
 }

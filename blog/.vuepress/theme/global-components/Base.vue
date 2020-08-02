@@ -1,11 +1,11 @@
 <template>
-  <Fragment>
+  <div :class="$style.page">
     <Header />
-    <main class="main container">
+    <main :class="[$style.main, 'container']">
       <slot></slot>
     </main>
     <Footer />
-  </Fragment>
+  </div>
 </template>
 
 <script>
@@ -14,8 +14,15 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss" module>
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
 .main {
+  flex-grow: 1;
   margin-top: 3rem;
   overflow: hidden;
   padding: 0 var(--pad-horizontal);

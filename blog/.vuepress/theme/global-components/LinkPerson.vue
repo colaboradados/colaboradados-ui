@@ -1,6 +1,6 @@
 <template>
   <Link :url="getPerson(person)[platform].url">
-    <FaIcon :icon="getIcon(platform)"></FaIcon>
+    <FaIcon :icon="['fab', platform.icon]"></FaIcon>
     {{ getPerson(person).name }}
   </Link>
 </template>
@@ -19,9 +19,6 @@ export default {
   methods: {
     getPerson(slug) {
       return PEOPLE[slug];
-    },
-    getIcon(platform) {
-      return ["fab", platform.icon];
     },
   },
 };

@@ -1,8 +1,8 @@
 <template>
   <header>
-    <time class="timestamp" :datetime="data.date">{{ date }}</time>
-    <p class="title">
-      {{ product }} | <span class="edition">{{ data.edition }}</span>
+    <time :class="$style.timestamp" :datetime="data.date">{{ date }}</time>
+    <p :class="$style.title">
+      {{ product }} | <span :class="$style.edition">{{ data.edition }}</span>
     </p>
   </header>
 </template>
@@ -22,7 +22,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss" module>
 .title {
   margin: 0;
 }

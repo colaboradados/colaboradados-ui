@@ -10,7 +10,7 @@
   "repository": "/vuepress",
   "license": "MIT",
   "scripts": {
-    "dev": "NODE_ENV=development vuepress dev blog",
+    "dev": "NODE_ENV=development vuepress dev blog --no-clear-screen",
     "build": "NODE_ENV=production vuepress build blog",
     "lint": "eslint ./blog/.vuepress"
   },

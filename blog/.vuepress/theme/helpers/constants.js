@@ -113,39 +113,43 @@ export const PEOPLE = Object.freeze({
   },
 });
 
-export const SOCIAL_LINKS = Object.freeze([
-  {
-    platform: PLATFORMS.TWITTER,
-    handle: "@colaboradados",
-    title: "colaboradados",
-    url: "https://twitter.com/colaboradados",
-  },
-  // {
-  //   platform: PLATFORMS.TWITTER,
-  //   handle: "@colaborabot",
-  //   url: "https://twitter.com/colabora_bot",
-  // },
-  {
-    platform: PLATFORMS.FACEBOOK,
-    handle: "colaboradados",
-    title: "colaboradados",
-    url: "https://facebook.com/colaboradados",
-  },
-  {
-    platform: PLATFORMS.INSTAGRAM,
-    handle: "@colaboradados",
-    title: "colaboradados",
-    url: "https://www.instagram.com/colaboradados/",
-  },
-  {
-    platform: PLATFORMS.TELEGRAM,
-    handle: "colaboradados",
-    title: "colaboradados",
-    url: "https://t.me/colaboradados",
-  },
-  // {
-  //   platform: PLATFORMS.MASTODON,
-  //   handle: "@colaborabot",
-  //   url: "https://botsin.space/@colaborabot",
-  // },
-]);
+export const SOCIAL_LINKS = Object.freeze({
+  colaboradados: [
+    {
+      platform: PLATFORMS.TWITTER,
+      handle: "@colaboradados",
+      title: "colaboradados",
+      url: "https://twitter.com/colaboradados",
+    },
+    {
+      platform: PLATFORMS.FACEBOOK,
+      handle: "colaboradados",
+      title: "colaboradados",
+      url: "https://facebook.com/colaboradados",
+    },
+    {
+      platform: PLATFORMS.INSTAGRAM,
+      handle: "@colaboradados",
+      title: "colaboradados",
+      url: "https://www.instagram.com/colaboradados/",
+    },
+    {
+      platform: PLATFORMS.TELEGRAM,
+      handle: "colaboradados",
+      title: "colaboradados",
+      url: "https://t.me/colaboradados",
+    },
+  ],
+  colaborabot: [
+    {
+      platform: PLATFORMS.TWITTER,
+      handle: "@colaborabot",
+      url: "https://twitter.com/colabora_bot",
+    },
+    {
+      platform: PLATFORMS.MASTODON,
+      handle: "@colaborabot",
+      url: "https://botsin.space/@colaborabot",
+    },
+  ],
+});

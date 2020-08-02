@@ -47,8 +47,8 @@
 }
 @mixin Paragraph {
   font-family: var(--sans-serif);
+  font-size: 1.6rem;
   line-height: 1.3em;
-  margin-bottom: 1.5rem;
 }
 
 h1 {
@@ -69,4 +69,5 @@ h4 {
 
 p {
   @include Paragraph;
+  margin-bottom: 1.5rem;
 }

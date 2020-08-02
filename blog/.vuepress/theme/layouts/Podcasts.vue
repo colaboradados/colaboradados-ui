@@ -1,6 +1,6 @@
 <template>
   <Base>
-    <h1 class="podcast-title">{{ frontmatter.title }}</h1>
+    <h1>{{ frontmatter.title }}</h1>
     <ul :class="['list--reset', $style.grid]">
       <li v-for="n in count">
         <Link
@@ -8,7 +8,7 @@
           :url="`/podcast/${n.toString().padStart(3, '0')}`"
         >
           <img
-            :src="`/podcast/${n.toString().padStart(3, '0')}.png`"
+            :src="`/podcast/${n.toString().padStart(3, '0')}.jpg`"
             aria-hidden
           />
         </Link>
@@ -28,9 +28,6 @@ export default {
     count() {
       return getMetaContent("count", this.frontmatter);
     },
-  },
-  mounted() {
-    console.log(this.frontmatter);
   },
 };
 </script>

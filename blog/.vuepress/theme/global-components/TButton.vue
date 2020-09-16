@@ -13,21 +13,5 @@ export default {
 </script>
 
 <style lang="scss" module>
-@import "../styles/tools";
-
-.button {
-  @include Paragraph;
-
-  align-items: center;
-  background: transparent;
-  border: 0.3rem solid;
-  border-radius: var(--border-radius);
-  display: inline-flex;
-  padding: 1rem 1.5rem;
-}
-
-.icon {
-  font-size: inherit;
-  margin-left: 1ch;
-}
+@import "../styles/components/TButton";
 </style>

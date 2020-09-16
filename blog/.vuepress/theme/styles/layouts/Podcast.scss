@@ -1,0 +1,48 @@
+@import "../tools";
+
+.grid {
+  @include grid;
+  grid-template-rows: auto auto;
+
+  aside {
+    @include grid-column-span(4);
+
+    @include md {
+      @include grid-column-span(3);
+      grid-row-start: 2;
+    }
+
+    @include lg {
+      @include grid-column-span(4);
+    }
+  }
+
+  .content {
+    @include grid-column-span(4);
+
+    @include md {
+      @include grid-column-span(6);
+      grid-column-start: 4;
+      grid-row-start: 2;
+    }
+
+    @include lg {
+      @include grid-column-span(8);
+      grid-column-start: 5;
+    }
+  }
+}
+
+.header {
+  margin-bottom: 3rem;
+}
+
+.product-header {
+  margin-bottom: 3rem;
+
+  @include md {
+    @include grid-column-span(6);
+    grid-column-start: 4;
+    grid-row-start: 1;
+  }
+}

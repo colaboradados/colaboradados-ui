@@ -15,16 +15,5 @@ export default {
 </script>
 
 <style lang="scss" module>
-.page {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
-.main {
-  flex-grow: 1;
-  margin-top: 3rem;
-  overflow: hidden;
-  padding: 0 var(--pad-horizontal);
-}
+@import "../styles/components/Base";
 </style>

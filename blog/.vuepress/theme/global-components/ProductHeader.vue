@@ -23,17 +23,5 @@ export default {
 </script>
 
 <style lang="scss" module>
-.title {
-  margin: 0;
-}
-
-.edition {
-  font-weight: 600;
-}
-
-.timestamp {
-  display: block;
-  font-size: 0.8em;
-  margin: 1rem 0 1rem;
-}
+@import "../styles/components/ProductHeader";
 </style>

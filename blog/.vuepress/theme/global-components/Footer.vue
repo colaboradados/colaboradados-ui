@@ -37,46 +37,5 @@ export default {
 </script>
 
 <style lang="scss" module>
-@import "../styles/tools";
-
-.footer {
-  @include grid(3);
-
-  border-top: 1px solid var(--light-grey);
-  margin-top: 2rem;
-  padding: 2rem var(--pad-horizontal) 0;
-
-  @include lg {
-    margin-top: 7rem;
-    padding-top: 7rem;
-  }
-}
-
-.colaboradados {
-  font-size: 2rem;
-  font-weight: 600;
-}
-
-.colaborabot {
-  font-size: 1.8rem;
-  margin-top: 2rem;
-}
-
-.firstColumn {
-  display: inline-flex;
-  flex-direction: column;
-
-  label {
-    display: inline-block;
-    margin-bottom: 1rem;
-  }
-}
-
-.thirdColumn {
-  align-items: flex-end;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 2rem;
-  grid-column-start: 3;
-}
+@import "../styles/components/Footer";
 </style>

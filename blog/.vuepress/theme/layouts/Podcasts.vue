@@ -33,9 +33,5 @@ export default {
 </script>
 
 <style lang="scss" module>
-@import "../styles/tools";
-
-.grid {
-  @include grid(4);
-}
+@import "../styles/layouts/Podcasts";
 </style>

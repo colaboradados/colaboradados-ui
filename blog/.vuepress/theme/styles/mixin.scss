@@ -1,3 +1,5 @@
+@import "breakpoints";
+
 @mixin grid($columns: var(--grid-col-count), $gap: var(--col-gutter)) {
   display: grid;
   grid-template-columns: repeat(#{$columns}, 1fr);

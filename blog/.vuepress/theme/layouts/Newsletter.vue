@@ -35,14 +35,5 @@ export default {
 </script>
 
 <style lang="scss" module>
-@import "../styles/tools";
-
-.grid {
-  @include md {
-    @include grid(2);
-  }
-  @include lg {
-    @include grid(4);
-  }
-}
+@import "../styles/layouts/Newsletter";
 </style>

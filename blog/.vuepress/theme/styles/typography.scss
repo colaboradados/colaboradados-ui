@@ -1,3 +1,5 @@
+@import "breakpoints";
+
 @mixin Header1 {
   font-family: var(--sans-serif);
   font-size: 5rem;
@@ -9,14 +11,15 @@
   }
 }
 @mixin Header2 {
-  font-family: serif;
+  // font-family: serif;
+  font-family: var(--sans-serif);
   font-size: 4rem;
 
   @include md {
     margin-bottom: 1.5rem;
   }
   @include lg {
-    margin-bottom: 2.5rem;
+    margin-bottom: 2rem;
   }
 
   &:not(:first-child) {
@@ -29,7 +32,8 @@
   }
 }
 @mixin Header3 {
-  font-family: var(--serif);
+  // font-family: var(--serif);
+  font-family: var(--sans-serif);
   font-size: 3rem;
 
   &:not(:first-child) {

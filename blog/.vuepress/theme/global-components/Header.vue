@@ -25,30 +25,5 @@ export default {
 </script>
 
 <style lang="scss" module>
-@import "../styles/tools";
-
-.header {
-  margin: auto;
-  padding: 2rem var(--pad-horizontal);
-  width: 100%;
-  z-index: 1;
-
-  @include md-and-lower {
-    background-color: #fff;
-    border-bottom: 0.1rem solid var(--light-grey);
-    position: sticky;
-    top: 0;
-  }
-}
-
-.headerContent {
-  display: flex;
-  margin: auto;
-  max-width: var(--max-width);
-  width: 100%;
-}
-
-.nav {
-  margin-left: auto;
-}
+@import "../styles/components/Header";
 </style>

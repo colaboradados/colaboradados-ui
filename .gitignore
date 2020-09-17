@@ -25,3 +25,7 @@ yarn-error.log*
 .env.*
 .idea
 .cache
+
+.env
+blog/.vuepress/theme/components/Table*
+blog/.vuepress/theme/helpers/helpers*

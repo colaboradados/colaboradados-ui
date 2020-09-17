@@ -16,6 +16,7 @@ module.exports = {
       alias: {
         "@components": path.resolve(__dirname, "./theme/components"),
         "@helpers": path.resolve(__dirname, "./theme/helpers"),
+        "@utils": path.resolve(__dirname, "./theme/utils"),
       },
     },
   },

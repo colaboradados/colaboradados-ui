@@ -5,7 +5,8 @@
     "baseUrl": "./",
     "paths": {
       "@components/*": ["blog/.vuepress/theme/components/*"],
-      "@helpers/*": ["blog/.vuepress/theme/helpers/*"]
+      "@helpers/*": ["blog/.vuepress/theme/helpers/*"],
+      "@utils/*": ["blog/.vuepress/theme/utils/*"]
     }
   },
   "exclude": ["node_modules", "dist"]

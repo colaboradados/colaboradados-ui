@@ -42,7 +42,7 @@
 
   @include md {
     @include grid-column-span(6);
-    grid-column-start: 4;
+    grid-column-start: 5;
     grid-row-start: 1;
   }
 }

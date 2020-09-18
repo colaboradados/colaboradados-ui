@@ -29,3 +29,4 @@ yarn-error.log*
 .env
 blog/.vuepress/theme/components/Table*
 blog/.vuepress/theme/helpers/helpers*
+blog/.vuepress/theme/utils/endpoints.js

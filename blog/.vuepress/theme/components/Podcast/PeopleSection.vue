@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import { PEOPLE, PLATFORMS } from "@helpers/constants";
+import { PEOPLE, PLATFORMS } from "@constants/constants";
 
 export default {
   name: "PeopleSection",

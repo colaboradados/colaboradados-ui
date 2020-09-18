@@ -5,7 +5,10 @@
     "baseUrl": "./",
     "paths": {
       "@components/*": ["blog/.vuepress/theme/components/*"],
+      "@constants/*": ["blog/.vuepress/theme/constants/*"],
       "@helpers/*": ["blog/.vuepress/theme/helpers/*"],
+      "@layouts/*": ["blog/.vuepress/theme/layouts/*"],
+      "@styles/*": ["blog/.vuepress/theme/styles/*"],
       "@utils/*": ["blog/.vuepress/theme/utils/*"]
     }
   },

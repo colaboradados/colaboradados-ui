@@ -35,7 +35,7 @@
 import moment from "moment";
 import PeopleSection from "@components/Podcast/PeopleSection";
 import { formatArtcileTimestap } from "@helpers/patterns";
-import { METADATA, PEOPLE } from "@helpers/constants";
+import { METADATA, PEOPLE } from "@constants/constants";
 import { getMetaContent } from "@helpers/get";
 
 export default {

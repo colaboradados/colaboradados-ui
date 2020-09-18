@@ -15,7 +15,10 @@ module.exports = {
     resolve: {
       alias: {
         "@components": path.resolve(__dirname, "./theme/components"),
+        "@constants": path.resolve(__dirname, "./theme/constants"),
         "@helpers": path.resolve(__dirname, "./theme/helpers"),
+        "@layouts": path.resolve(__dirname, "./theme/layouts"),
+        "@styles": path.resolve(__dirname, "./theme/styles"),
         "@utils": path.resolve(__dirname, "./theme/utils"),
       },
     },

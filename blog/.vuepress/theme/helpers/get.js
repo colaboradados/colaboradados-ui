@@ -1,4 +1,4 @@
-import { PEOPLE } from "./constants";
+import { PEOPLE } from "@constants/constants";
 
 export function getMetaContent(key, source) {
   if (!source) {

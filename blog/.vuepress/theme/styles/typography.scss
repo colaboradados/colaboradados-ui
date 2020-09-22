@@ -55,19 +55,23 @@
   line-height: 1.3em;
 }
 
-h1 {
+h1,
+.h1 {
   @include Header1;
 }
 
-h2 {
+h2,
+.h2 {
   @include Header2;
 }
 
-h3 {
+h3,
+.h3 {
   @include Header3;
 }
 
-h4 {
+h4,
+.h4 {
   @include Header4;
 }
 

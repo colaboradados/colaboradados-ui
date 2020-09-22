@@ -20,6 +20,7 @@
     "eslint-plugin-vue": "^7.0.0-alpha.7",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
+    "lodash": "^4.17.20",
     "moment": "^2.27.0",
     "node-sass": "^4.14.1",
     "sass-loader": "^10.0.2",

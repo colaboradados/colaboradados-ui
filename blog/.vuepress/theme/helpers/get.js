@@ -12,7 +12,7 @@ export function getMetaContent(key, source) {
     return null;
   }
 
-  return value[0].content;
+  return value.map((val) => val.content);
 }
 
 export function getPerson(slug) {

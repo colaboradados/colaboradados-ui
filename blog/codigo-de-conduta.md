@@ -2,6 +2,7 @@
 layout: default
 lang: pt-BR
 title: "Código de Conduta"
+permalink: /conduta
 ---
 
 ## Nossa promessa

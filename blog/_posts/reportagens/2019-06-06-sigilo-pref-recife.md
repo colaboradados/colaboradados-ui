@@ -1,8 +1,8 @@
 ---
+layout: Layout
 title: "QUANDO O SIGILO É DEMAIS..."
 author: Judite Cypreste
 date: 2019-06-06
-layout: default
 tags: [bloqueio, falta de transparencia, Recife]
 ---
 

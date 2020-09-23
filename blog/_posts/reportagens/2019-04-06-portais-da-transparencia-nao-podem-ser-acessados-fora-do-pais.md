@@ -1,8 +1,8 @@
 ---
+layout: Layout
 title: "PORTAIS DA TRANSPARÊNCIA NÃO PODEM SER ACESSADOS FORA DO PAÍS"
 author: Judite Cypreste
 date: 2019-04-06
-layout: default
 tags: [bloqueio, falta de transparencia]
 ---
 

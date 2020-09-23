@@ -2,6 +2,7 @@
 layout: About
 lang: pt-BR
 title: Quem somos
+permalink: /quem-somos
 meta:
   - name: name
     content: Judite Cypreste

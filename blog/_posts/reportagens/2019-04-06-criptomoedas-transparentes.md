@@ -1,8 +1,8 @@
 ---
+layout: Layout
 title: "CRIPTOMOEDAS TRANSPARENTES"
 author: Judite Cypreste
 date: 2019-04-06
-layout: default
 tags:
   [
     criptomoedas,

@@ -32,7 +32,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.13.1",
     "@fortawesome/free-solid-svg-icons": "^5.13.1",
     "@fortawesome/vue-fontawesome": "^2.0.0",
-    "axios": "^0.20.0",
+    "axios": "^0.21.0",
     "d3-dsv": "^2.0.0"
   },
   "husky": {

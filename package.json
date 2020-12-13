@@ -10,11 +10,12 @@
   "repository": "/vuepress",
   "license": "MIT",
   "scripts": {
-    "dev": "NODE_ENV=development vuepress dev blog --no-clear-screen",
+    "start": "NODE_ENV=development vuepress dev blog --no-clear-screen",
     "build": "NODE_ENV=production vuepress build blog",
     "lint": "eslint ./blog/.vuepress"
   },
   "devDependencies": {
+    "@formschema/native": "^2.0.0-alpha.2",
     "@vuepress/theme-blog": "^2.1.0",
     "eslint": "^7.3.1",
     "eslint-plugin-vue": "^7.0.0-alpha.7",

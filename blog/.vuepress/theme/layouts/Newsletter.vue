@@ -2,6 +2,10 @@
   <Base>
     <section>
       <h1>{{ frontmatter.title }}</h1>
+      <form>
+        <label>Qual o seu e-mail?</label>
+        <input type="text" />
+      </form>
     </section>
     <section>
       <ul v-if="newsletters" :class="['list--reset', $style.grid]">

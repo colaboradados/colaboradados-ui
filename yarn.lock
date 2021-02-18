@@ -877,7 +877,7 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fortawesome/fontawesome-common-types@^0.2.30", "@fortawesome/fontawesome-common-types@^0.2.31":
+"@fortawesome/fontawesome-common-types@^0.2.31":
   version "0.2.31"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.31.tgz#f15a39e5ab4e5dfda0717733bcacb9580e666ad9"
   integrity sha512-xfnPyH6NN5r/h1/qDYoGB0BlHSID902UkQzxR8QsoKDh55KAPr8ruAoie12WQEEQT8lRE2wtV7LoUllJ1HqCag==
@@ -9126,9 +9126,9 @@ vue-feather-icons@^4.21.0:
     babel-helper-vue-jsx-merge-props "^2.0.2"
 
 vue-good-table@^2.21.0:
-  version "2.21.0"
-  resolved "https://registry.yarnpkg.com/vue-good-table/-/vue-good-table-2.21.0.tgz#78f90ee4e40696b72545e2a198c9398c45f0ba45"
-  integrity sha512-e384AGlmEBG0CfTkZXN/OZe1O58V2mbxQafsKqzVrqvROcMZsa9iSyK11D4YS2JzlJo9mRqsad4/vrV/U/Xbdw==
+  version "2.21.4"
+  resolved "https://registry.yarnpkg.com/vue-good-table/-/vue-good-table-2.21.4.tgz#0f223dc2d067cccfc1bcb6ed00e904d58df336d3"
+  integrity sha512-LIIErTCiYXYQPJsf66JUjanRqBwA8ZwYwUCW1PMPleyX+g5OUegPIKcEQ/9Is3/Y9wXY6SfUfbmCKq8vxfRuDw==
   dependencies:
     date-fns "^2.0.0-beta.4"
     diacriticless "1.0.1"
